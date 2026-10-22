@@ -1,0 +1,2594 @@
+[
+  {
+    "id": "JR-PROC-PEN-16",
+    "codigoOficial": "JR-COIP-PROC-2026-016",
+    "materia": "Derecho Penal",
+    "subtema": "Investigación Previa e Instrucción Fiscal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es un elemento de convicción?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un antecedente obtenido legalmente durante la investigación penal que permite sustentar hipótesis sobre la existencia de una infracción y la participación de una persona."
+      },
+      {
+        "id": "B",
+        "texto": "Un acto decisorio definitivo emitido por el tribunal de garantías penales que condena al procesado."
+      },
+      {
+        "id": "C",
+        "texto": "Un medio de prueba formal ya practicado y controvertido bajo juramento en la audiencia de juicio."
+      },
+      {
+        "id": "D",
+        "texto": "Un recurso extraordinario interpuesto ante la Corte Nacional de Justicia para anular actuaciones fiscales."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un antecedente obtenido legalmente durante la investigación penal que permite sustentar hipótesis sobre la existencia de una infracción y la participación de una persona.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 595).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 595",
+      "textoSoporte": "Es un antecedente obtenido legalmente durante la investigación penal que permite sustentar hipótesis sobre la existencia de una infracción y la participación de una persona.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-17",
+    "codigoOficial": "JR-COIP-PROC-2026-017",
+    "materia": "Derecho Penal",
+    "subtema": "Teoría General de la Prueba Penal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la diferencia entre elemento de convicción y prueba?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El elemento de convicción tiene valor probatorio pleno e irrebatible, mientras que la prueba es un mero indicio preliminar."
+      },
+      {
+        "id": "B",
+        "texto": "El elemento de convicción sirve para sustentar decisiones durante la investigación, mientras que la prueba es producida, practicada y controvertida ante el juzgador en la etapa correspondiente."
+      },
+      {
+        "id": "C",
+        "texto": "La prueba solo se produce durante la investigación previa sin intervención del juzgador, y el elemento de convicción en casación."
+      },
+      {
+        "id": "D",
+        "texto": "No existe ninguna diferencia sustancial; ambos términos son sinónimos procesales con idéntico estándar de convicción."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"El elemento de convicción sirve para sustentar decisiones durante la investigación, mientras que la prueba es producida, practicada y controvertida ante el juzgador en la etapa correspondiente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 453, 454).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 453, 454",
+      "textoSoporte": "El elemento de convicción sirve para sustentar decisiones durante la investigación, mientras que la prueba es producida, practicada y controvertida ante el juzgador en la etapa correspondiente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-18",
+    "codigoOficial": "JR-COIP-PROC-2026-018",
+    "materia": "Derecho Penal",
+    "subtema": "Medidas Cautelares y de Protección",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una medida cautelar?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Una pena privativa de libertad anticipada que se impone antes de formular cargos para sancionar el dolo."
+      },
+      {
+        "id": "B",
+        "texto": "Un acuerdo reparatorio vinculante entre víctima y procesado que extingue de plano toda acción penal."
+      },
+      {
+        "id": "C",
+        "texto": "Es una institución procesal penal. Consiste en una medida dispuesta por autoridad competente para garantizar la comparecencia de la persona procesada, proteger a la víctima o asegurar el cumplimiento de la decisión judicial."
+      },
+      {
+        "id": "D",
+        "texto": "Una sanción administrativa dictada por el Consejo de la Judicatura para suspender defensores públicos."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución procesal penal. Consiste en una medida dispuesta por autoridad competente para garantizar la comparecencia de la persona procesada, proteger a la víctima o asegurar el cumplimiento de la decisión judicial.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 519).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 519",
+      "textoSoporte": "Es una institución procesal penal. Consiste en una medida dispuesta por autoridad competente para garantizar la comparecencia de la persona procesada, proteger a la víctima o asegurar el cumplimiento de la decisión judicial.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-19",
+    "codigoOficial": "JR-COIP-PROC-2026-019",
+    "materia": "Derecho Penal",
+    "subtema": "Finalidad de las Medidas Cautelares",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de las medidas cautelares?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Satisfacer el reclamo mediático y anticipar el cumplimiento de la pena antes del juzgamiento."
+      },
+      {
+        "id": "B",
+        "texto": "Obligar al sospechoso a confesar la autoría del hecho punible bajo apercibimiento de desacato."
+      },
+      {
+        "id": "C",
+        "texto": "Eximir al fiscal de la carga de recabar elementos de convicción durante la instrucción fiscal."
+      },
+      {
+        "id": "D",
+        "texto": "Garantizar la eficacia del proceso penal y evitar riesgos procesales."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Garantizar la eficacia del proceso penal y evitar riesgos procesales.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 519, 520).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 519, 520",
+      "textoSoporte": "Garantizar la eficacia del proceso penal y evitar riesgos procesales.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-20",
+    "codigoOficial": "JR-COIP-PROC-2026-020",
+    "materia": "Derecho Penal",
+    "subtema": "Prisión Preventiva",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prisión preventiva?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una medida cautelar personal excepcional. Consiste en la privación temporal de libertad de una persona procesada para asegurar los fines del proceso penal en los casos previstos por la ley."
+      },
+      {
+        "id": "B",
+        "texto": "Una sanción penal definitiva que impone el fiscal al inicio de la fase de investigación previa."
+      },
+      {
+        "id": "C",
+        "texto": "Una detención con fines investigativos de plazo indefinido que procede contra cualquier sospechoso no procesado."
+      },
+      {
+        "id": "D",
+        "texto": "Un beneficio penitenciario de régimen semiabierto concedido a procesados por delitos sancionados con pena mínima."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una medida cautelar personal excepcional. Consiste en la privación temporal de libertad de una persona procesada para asegurar los fines del proceso penal en los casos previstos por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 534; CRE Art. 77 num. 1).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 534; CRE Art. 77 num. 1",
+      "textoSoporte": "Es una medida cautelar personal excepcional. Consiste en la privación temporal de libertad de una persona procesada para asegurar los fines del proceso penal en los casos previstos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-21",
+    "codigoOficial": "JR-COIP-PROC-2026-021",
+    "materia": "Derecho Penal",
+    "subtema": "Naturaleza de la Prisión Preventiva",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el carácter de la prisión preventiva?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "General, automática y de aplicación preceptiva en toda instrucción fiscal."
+      },
+      {
+        "id": "B",
+        "texto": "Excepcional y de última ratio."
+      },
+      {
+        "id": "C",
+        "texto": "Punitivo, irrevocable y de primera opción ante cualquier denuncia formal."
+      },
+      {
+        "id": "D",
+        "texto": "Discrecional de la policía judicial sin necesidad de resolución judicial previa."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Excepcional y de última ratio.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (CRE Art. 77 num. 1; COIP Art. 534).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "CRE Art. 77 num. 1; COIP Art. 534",
+      "textoSoporte": "Excepcional y de última ratio.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-22",
+    "codigoOficial": "JR-COIP-PROC-2026-022",
+    "materia": "Derecho Penal",
+    "subtema": "Requisitos de la Prisión Preventiva",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué debe analizar el juzgador antes de dictar prisión preventiva?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Únicamente la solicitud verbal del denunciante sin requerir justificación de riesgo de fuga ni elementos de convicción."
+      },
+      {
+        "id": "B",
+        "texto": "La cobertura de medios de comunicación y la repercusión social del delito investigado."
+      },
+      {
+        "id": "C",
+        "texto": "La existencia de elementos de convicción suficientes y el cumplimiento de los requisitos legales y constitucionales exigidos para su imposición."
+      },
+      {
+        "id": "D",
+        "texto": "La capacidad económica de la defensa técnica para consignar indemnizaciones pecuniarias civiles."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"La existencia de elementos de convicción suficientes y el cumplimiento de los requisitos legales y constitucionales exigidos para su imposición.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 534).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 534",
+      "textoSoporte": "La existencia de elementos de convicción suficientes y el cumplimiento de los requisitos legales y constitucionales exigidos para su imposición.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-23",
+    "codigoOficial": "JR-COIP-PROC-2026-023",
+    "materia": "Derecho Penal",
+    "subtema": "Medidas Cautelares Alternativas",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una medida cautelar alternativa a la prisión preventiva?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Una pena privativa de libertad sustitutiva ejecutada obligatoriamente en centros de privación provisional."
+      },
+      {
+        "id": "B",
+        "texto": "La declaratoria de prejudicialidad civil que paraliza el proceso penal hasta que se dicte sentencia en otra sede."
+      },
+      {
+        "id": "C",
+        "texto": "Un sobreseimiento definitivo otorgado al procesado a cambio de renunciar a su derecho a la defensa."
+      },
+      {
+        "id": "D",
+        "texto": "Es una medida cautelar personal menos gravosa que la prisión preventiva. Consiste en mecanismos destinados a garantizar los fines del proceso penal con menor afectación a la libertad personal."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una medida cautelar personal menos gravosa que la prisión preventiva. Consiste en mecanismos destinados a garantizar los fines del proceso penal con menor afectación a la libertad personal.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 522, 536).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 522, 536",
+      "textoSoporte": "Es una medida cautelar personal menos gravosa que la prisión preventiva. Consiste en mecanismos destinados a garantizar los fines del proceso penal con menor afectación a la libertad personal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-24",
+    "codigoOficial": "JR-COIP-PROC-2026-024",
+    "materia": "Derecho Penal",
+    "subtema": "Prohibición de Salida del País",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prohibición de salida del país?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una medida cautelar personal. Consiste en impedir temporalmente que la persona procesada abandone el territorio nacional."
+      },
+      {
+        "id": "B",
+        "texto": "Una sanción accesoria definitiva de expulsión y pérdida irreversible de la nacionalidad."
+      },
+      {
+        "id": "C",
+        "texto": "La cancelación del pasaporte ordenada directamente por la cancillería sin conocimiento de juez penal."
+      },
+      {
+        "id": "D",
+        "texto": "Una orden de arraigo societario que prohíbe la transferencia de acciones comerciales en bolsa."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una medida cautelar personal. Consiste en impedir temporalmente que la persona procesada abandone el territorio nacional.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 522 num. 1).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 522 num. 1",
+      "textoSoporte": "Es una medida cautelar personal. Consiste en impedir temporalmente que la persona procesada abandone el territorio nacional.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-25",
+    "codigoOficial": "JR-COIP-PROC-2026-025",
+    "materia": "Derecho Penal",
+    "subtema": "Presentación Periódica",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la presentación periódica ante autoridad competente?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Un arresto domiciliario nocturno con custodia armada permanente a cargo de la policía nacional."
+      },
+      {
+        "id": "B",
+        "texto": "Es una medida cautelar personal. Consiste en la obligación impuesta a la persona procesada de comparecer periódicamente ante la autoridad designada por el juzgador."
+      },
+      {
+        "id": "C",
+        "texto": "El deber del ofendido de comparecer a testificar mensualmente ante el fiscal del caso."
+      },
+      {
+        "id": "D",
+        "texto": "Una sanción administrativa impuesta por el Ministerio del Interior por infringir toques de queda."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una medida cautelar personal. Consiste en la obligación impuesta a la persona procesada de comparecer periódicamente ante la autoridad designada por el juzgador.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 522 num. 2).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 522 num. 2",
+      "textoSoporte": "Es una medida cautelar personal. Consiste en la obligación impuesta a la persona procesada de comparecer periódicamente ante la autoridad designada por el juzgador.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-26",
+    "codigoOficial": "JR-COIP-PROC-2026-026",
+    "materia": "Derecho Penal",
+    "subtema": "Etapa Evaluatoria y Preparatoria de Juicio",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la etapa de evaluación y preparatoria de juicio?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La etapa preliminar no judicial donde el fiscal recopila antecedentes sin formular cargos."
+      },
+      {
+        "id": "B",
+        "texto": "La fase de ejecución de penas dirigida exclusivamente por los juzgados de garantías penitenciarias."
+      },
+      {
+        "id": "C",
+        "texto": "Es una etapa procesal penal. Consiste en la fase en la que se controla la legalidad de la investigación y se determina si existen méritos suficientes para que la causa pase a juicio."
+      },
+      {
+        "id": "D",
+        "texto": "La audiencia oral y pública donde se evacuan y contradicen los testimonios ante el tribunal de juicio."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una etapa procesal penal. Consiste en la fase en la que se controla la legalidad de la investigación y se determina si existen méritos suficientes para que la causa pase a juicio.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 601, 604).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 601, 604",
+      "textoSoporte": "Es una etapa procesal penal. Consiste en la fase en la que se controla la legalidad de la investigación y se determina si existen méritos suficientes para que la causa pase a juicio.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-27",
+    "codigoOficial": "JR-COIP-PROC-2026-027",
+    "materia": "Derecho Penal",
+    "subtema": "Objeto de la Audiencia Evaluatoria",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el objeto de la audiencia evaluatoria y preparatoria de juicio?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Declarar la culpabilidad del procesado e imponerle la pena de privación de libertad mediante sentencia."
+      },
+      {
+        "id": "B",
+        "texto": "Practicar los testimonios de los peritos y testigos con contrainterrogatorios bajo el principio de inmediación plena."
+      },
+      {
+        "id": "C",
+        "texto": "Resolver en casación la errónea interpretación de la ley penal por parte de los tribunales inferiores."
+      },
+      {
+        "id": "D",
+        "texto": "Resolver cuestiones procesales, controlar la validez de la actuación fiscal y determinar si procede el llamamiento a juicio."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Resolver cuestiones procesales, controlar la validez de la actuación fiscal y determinar si procede el llamamiento a juicio.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 604).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 604",
+      "textoSoporte": "Resolver cuestiones procesales, controlar la validez de la actuación fiscal y determinar si procede el llamamiento a juicio.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-28",
+    "codigoOficial": "JR-COIP-PROC-2026-028",
+    "materia": "Derecho Penal",
+    "subtema": "Dictamen Acusatorio Fiscal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el dictamen acusatorio?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un acto procesal de la Fiscalía. Consiste en la declaración formal mediante la cual se sostiene que existen elementos suficientes para llevar a una persona a juicio."
+      },
+      {
+        "id": "B",
+        "texto": "La sentencia condenatoria que condena al procesado al pago de multas y penas privativas de libertad."
+      },
+      {
+        "id": "C",
+        "texto": "El auto resolutivo del juez penal que ordena el archivo provisional de la denuncia."
+      },
+      {
+        "id": "D",
+        "texto": "El alegato final de la defensa pública solicitando la suspensión condicional de la pena impuesta."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un acto procesal de la Fiscalía. Consiste en la declaración formal mediante la cual se sostiene que existen elementos suficientes para llevar a una persona a juicio.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 601, 603).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 601, 603",
+      "textoSoporte": "Es un acto procesal de la Fiscalía. Consiste en la declaración formal mediante la cual se sostiene que existen elementos suficientes para llevar a una persona a juicio.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-29",
+    "codigoOficial": "JR-COIP-PROC-2026-029",
+    "materia": "Derecho Penal",
+    "subtema": "Dictamen Abstentivo Fiscal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el dictamen abstentivo?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El auto motivado por el cual el juez llama a juicio al procesado pese a no haber formulación de cargos."
+      },
+      {
+        "id": "B",
+        "texto": "Es un acto procesal de la Fiscalía. Consiste en la decisión de no acusar cuando los elementos obtenidos durante la investigación resultan insuficientes para sustentar una acusación."
+      },
+      {
+        "id": "C",
+        "texto": "La revocatoria expresa de la personería jurídica de la defensa técnica por abandono injustificado."
+      },
+      {
+        "id": "D",
+        "texto": "La sentencia absolutoria dictada por el tribunal de casación penal de la Corte Nacional."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es un acto procesal de la Fiscalía. Consiste en la decisión de no acusar cuando los elementos obtenidos durante la investigación resultan insuficientes para sustentar una acusación.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 600, 605).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 600, 605",
+      "textoSoporte": "Es un acto procesal de la Fiscalía. Consiste en la decisión de no acusar cuando los elementos obtenidos durante la investigación resultan insuficientes para sustentar una acusación.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-30",
+    "codigoOficial": "JR-COIP-PROC-2026-030",
+    "materia": "Derecho Penal",
+    "subtema": "Auto de Llamamiento a Juicio",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el auto de llamamiento a juicio?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El acto administrativo de inicio de investigación previa expedido por la policía judicial."
+      },
+      {
+        "id": "B",
+        "texto": "La resolución ejecutoriada que extingue definitivamente la responsabilidad penal del procesado."
+      },
+      {
+        "id": "C",
+        "texto": "Es una resolución judicial. Consiste en la decisión mediante la cual el juzgador determina que existen fundamentos suficientes para que la persona procesada sea juzgada en la etapa de juicio."
+      },
+      {
+        "id": "D",
+        "texto": "El dictamen vinculante de la Sala Penal de la Corte Provincial que declara la nulidad procesal."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una resolución judicial. Consiste en la decisión mediante la cual el juzgador determina que existen fundamentos suficientes para que la persona procesada sea juzgada en la etapa de juicio.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 608).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 608",
+      "textoSoporte": "Es una resolución judicial. Consiste en la decisión mediante la cual el juzgador determina que existen fundamentos suficientes para que la persona procesada sea juzgada en la etapa de juicio.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-31",
+    "codigoOficial": "JR-COIP-PROC-2026-031",
+    "materia": "Derecho Penal",
+    "subtema": "Etapa de Juicio",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la etapa de juicio?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La fase previa reservada donde el fiscal y el denunciante recopilan indicios sin control jurisdiccional."
+      },
+      {
+        "id": "B",
+        "texto": "El período administrativo en el cual el Servicio Nacional de Atención Integral evalúa la conducta del sentenciado."
+      },
+      {
+        "id": "C",
+        "texto": "La diligencia de formulación de cargos en la que se notifica formalmente al procesado el inicio de instrucción."
+      },
+      {
+        "id": "D",
+        "texto": "Es una etapa procesal penal. Consiste en la fase principal del proceso en la que se practican las pruebas, se desarrolla el debate contradictorio y se determina la responsabilidad o inocencia de la persona procesada."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una etapa procesal penal. Consiste en la fase principal del proceso en la que se practican las pruebas, se desarrolla el debate contradictorio y se determina la responsabilidad o inocencia de la persona procesada.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 609, 610).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 609, 610",
+      "textoSoporte": "Es una etapa procesal penal. Consiste en la fase principal del proceso en la que se practican las pruebas, se desarrolla el debate contradictorio y se determina la responsabilidad o inocencia de la persona procesada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-32",
+    "codigoOficial": "JR-COIP-PROC-2026-032",
+    "materia": "Derecho Penal",
+    "subtema": "Finalidad del Juicio Penal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad del juicio penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Determinar, mediante prueba legalmente practicada, si existe responsabilidad penal y emitir la decisión correspondiente."
+      },
+      {
+        "id": "B",
+        "texto": "Ratificar en todos sus términos la denuncia inicial sin admitir pruebas de descargo de la defensa."
+      },
+      {
+        "id": "C",
+        "texto": "Suspender la tramitación de las causas para propiciar conciliaciones extrajudiciales sin sentencia."
+      },
+      {
+        "id": "D",
+        "texto": "Aplicar de forma retrospectiva leyes procesales penales derogadas que agraven la situación del procesado."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Determinar, mediante prueba legalmente practicada, si existe responsabilidad penal y emitir la decisión correspondiente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 610, 619).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 610, 619",
+      "textoSoporte": "Determinar, mediante prueba legalmente practicada, si existe responsabilidad penal y emitir la decisión correspondiente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-33",
+    "codigoOficial": "JR-COIP-PROC-2026-033",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Inmediación",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio de inmediación?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El principio que autoriza al juez a dictar sentencia sin comparecer a la audiencia de juicio."
+      },
+      {
+        "id": "B",
+        "texto": "Es un principio procesal penal. Consiste en que el juzgador conozca directamente la prueba y mantenga contacto directo con las partes y los medios probatorios durante la audiencia."
+      },
+      {
+        "id": "C",
+        "texto": "La regla que delega la recepción de testimonios a los secretarios del despacho judicial por escrito."
+      },
+      {
+        "id": "D",
+        "texto": "La facultad de las partes procesales de evacuar pruebas testimoniales mediante oficios certificados reservados."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio procesal penal. Consiste en que el juzgador conozca directamente la prueba y mantenga contacto directo con las partes y los medios probatorios durante la audiencia.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 5 num. 17; CRE Art. 168 num. 6).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 5 num. 17; CRE Art. 168 num. 6",
+      "textoSoporte": "Es un principio procesal penal. Consiste en que el juzgador conozca directamente la prueba y mantenga contacto directo con las partes y los medios probatorios durante la audiencia.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-34",
+    "codigoOficial": "JR-COIP-PROC-2026-034",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Contradicción",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio de contradicción?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La potestad del fiscal de ocultar sus elementos de convicción hasta el momento en que se dicte sentencia condenatoria."
+      },
+      {
+        "id": "B",
+        "texto": "El deber de la defensa de allanarse incondicionalmente a las peticiones del acusador particular."
+      },
+      {
+        "id": "C",
+        "texto": "Es un principio procesal penal. Consiste en el derecho de las partes a conocer, controvertir, objetar y debatir las pruebas y argumentos presentados por la contraparte."
+      },
+      {
+        "id": "D",
+        "texto": "La prohibición legal de formular repreguntas a los testigos o peritos de la parte contraria en audiencia."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio procesal penal. Consiste en el derecho de las partes a conocer, controvertir, objetar y debatir las pruebas y argumentos presentados por la contraparte.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 5 num. 13; CRE Art. 76 num. 7 lit. h).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 5 num. 13; CRE Art. 76 num. 7 lit. h",
+      "textoSoporte": "Es un principio procesal penal. Consiste en el derecho de las partes a conocer, controvertir, objetar y debatir las pruebas y argumentos presentados por la contraparte.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-35",
+    "codigoOficial": "JR-COIP-PROC-2026-035",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Oralidad",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio de oralidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La exigencia procesal de que todos los alegatos y pruebas se presenten exclusivamente en escritos timbrados."
+      },
+      {
+        "id": "B",
+        "texto": "El sistema en el que las resoluciones judiciales se comunican únicamente por edictos publicados en prensa escrita."
+      },
+      {
+        "id": "C",
+        "texto": "La prohibición absoluta de registrar en medios tecnológicos o actas resumen las audiencias orales."
+      },
+      {
+        "id": "D",
+        "texto": "Es un principio procesal penal. Consiste en que las actuaciones fundamentales del proceso se desarrollen verbalmente ante la autoridad competente."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio procesal penal. Consiste en que las actuaciones fundamentales del proceso se desarrollen verbalmente ante la autoridad competente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 5 num. 11; CRE Art. 168 num. 6).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 5 num. 11; CRE Art. 168 num. 6",
+      "textoSoporte": "Es un principio procesal penal. Consiste en que las actuaciones fundamentales del proceso se desarrollen verbalmente ante la autoridad competente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-36",
+    "codigoOficial": "JR-COIP-PROC-2026-036",
+    "materia": "Derecho Penal",
+    "subtema": "Publicidad de las Audiencias",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la publicidad del juicio?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un principio procesal penal. Consiste en que las audiencias sean públicas, salvo las excepciones expresamente previstas por la Constitución y la ley."
+      },
+      {
+        "id": "B",
+        "texto": "La difusión obligatoria de los procesos penales a través de pautas comerciales pagadas en medios de comunicación."
+      },
+      {
+        "id": "C",
+        "texto": "La reserva total y secreta de todas las etapas procesales penales frente a la sociedad civil."
+      },
+      {
+        "id": "D",
+        "texto": "La facultad de las partes de impedir el ingreso del público a su discreción sin fundamento legal."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio procesal penal. Consiste en que las audiencias sean públicas, salvo las excepciones expresamente previstas por la Constitución y la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 562; CRE Art. 168 num. 5).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 562; CRE Art. 168 num. 5",
+      "textoSoporte": "Es un principio procesal penal. Consiste en que las audiencias sean públicas, salvo las excepciones expresamente previstas por la Constitución y la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-37",
+    "codigoOficial": "JR-COIP-PROC-2026-037",
+    "materia": "Derecho Penal",
+    "subtema": "Medios Probatorios - Prueba Testimonial",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prueba testimonial en el juicio penal ordinario?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Un dictamen pericial sobre evidencias físicas suscrito por peritos acreditados ante la judicatura."
+      },
+      {
+        "id": "B",
+        "texto": "Es un medio de prueba. Consiste en la declaración realizada por una persona sobre hechos relevantes para el proceso penal."
+      },
+      {
+        "id": "C",
+        "texto": "Cualquier escritura pública o contrato mercantil protocolizado ante notario público incorporado al juicio."
+      },
+      {
+        "id": "D",
+        "texto": "Una diligencia de inspección judicial realizada en el lugar de los hechos por los miembros del tribunal."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio de prueba. Consiste en la declaración realizada por una persona sobre hechos relevantes para el proceso penal.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 501, 502).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 501, 502",
+      "textoSoporte": "Es un medio de prueba. Consiste en la declaración realizada por una persona sobre hechos relevantes para el proceso penal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-38",
+    "codigoOficial": "JR-COIP-PROC-2026-038",
+    "materia": "Derecho Penal",
+    "subtema": "Medios Probatorios - Prueba Pericial",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prueba pericial en el procedimiento penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La manifestación espontánea de testigos presenciales sobre el modo en que ocurrió la infracción penal."
+      },
+      {
+        "id": "B",
+        "texto": "La sentencia judicial ejecutoriada aportada como precedente vinculante en la audiencia de juzgamiento."
+      },
+      {
+        "id": "C",
+        "texto": "Es un medio de prueba. Consiste en la opinión técnica, científica o especializada emitida por un perito respecto de materias que requieren conocimientos específicos."
+      },
+      {
+        "id": "D",
+        "texto": "Un informe administrativo emitido por la policía que contiene opiniones de valor no sustentadas en la ciencia."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio de prueba. Consiste en la opinión técnica, científica o especializada emitida por un perito respecto de materias que requieren conocimientos específicos.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 511).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 511",
+      "textoSoporte": "Es un medio de prueba. Consiste en la opinión técnica, científica o especializada emitida por un perito respecto de materias que requieren conocimientos específicos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-39",
+    "codigoOficial": "JR-COIP-PROC-2026-039",
+    "materia": "Derecho Penal",
+    "subtema": "Medios Probatorios - Prueba Documental",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prueba documental en el proceso penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La confesión judicial ficta obtenida por la inasistencia injustificada de la persona procesada."
+      },
+      {
+        "id": "B",
+        "texto": "El testimonio oral vertido ante los jueces del tribunal de garantías penales durante el interrogatorio."
+      },
+      {
+        "id": "C",
+        "texto": "La apreciación subjetiva formulada por los peritos en la sustentación verbal de sus informes."
+      },
+      {
+        "id": "D",
+        "texto": "Es un medio de prueba. Consiste en documentos físicos o electrónicos incorporados legalmente al proceso para demostrar hechos relevantes."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio de prueba. Consiste en documentos físicos o electrónicos incorporados legalmente al proceso para demostrar hechos relevantes.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 499, 500).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 499, 500",
+      "textoSoporte": "Es un medio de prueba. Consiste en documentos físicos o electrónicos incorporados legalmente al proceso para demostrar hechos relevantes.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-40",
+    "codigoOficial": "JR-COIP-PROC-2026-040",
+    "materia": "Derecho Penal",
+    "subtema": "Valoración de la Prueba",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué debe valorar el tribunal al analizar la prueba?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La legalidad, pertinencia, utilidad, credibilidad y fuerza probatoria de los medios de prueba incorporados al juicio."
+      },
+      {
+        "id": "B",
+        "texto": "Únicamente el volumen material y el número cuantitativo de documentos incorporados por las partes."
+      },
+      {
+        "id": "C",
+        "texto": "La influencia de encuestas de opinión pública y titulares de prensa sobre los hechos debatidos."
+      },
+      {
+        "id": "D",
+        "texto": "La jerarquía económica y social de los testigos que declararon durante la audiencia de juzgamiento."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"La legalidad, pertinencia, utilidad, credibilidad y fuerza probatoria de los medios de prueba incorporados al juicio.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 457, 619).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 457, 619",
+      "textoSoporte": "La legalidad, pertinencia, utilidad, credibilidad y fuerza probatoria de los medios de prueba incorporados al juicio.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-41",
+    "codigoOficial": "JR-COIP-PROC-2026-041",
+    "materia": "Derecho Penal",
+    "subtema": "Sentencia Condenatoria",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una sentencia condenatoria?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La resolución interlocutoria dictada en audiencia preparatoria que ratifica el estado de inocencia procesal."
+      },
+      {
+        "id": "B",
+        "texto": "Es una resolución judicial. Consiste en la decisión que declara probada la responsabilidad penal de una persona e impone la sanción correspondiente."
+      },
+      {
+        "id": "C",
+        "texto": "Un auto de sobreseimiento dictado por el juez de garantías penitenciarias por falta de pruebas."
+      },
+      {
+        "id": "D",
+        "texto": "La providencia de mero trámite que fija día y hora para la instalación de la audiencia de juicio."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una resolución judicial. Consiste en la decisión que declara probada la responsabilidad penal de una persona e impone la sanción correspondiente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 619, 622).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 619, 622",
+      "textoSoporte": "Es una resolución judicial. Consiste en la decisión que declara probada la responsabilidad penal de una persona e impone la sanción correspondiente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-42",
+    "codigoOficial": "JR-COIP-PROC-2026-042",
+    "materia": "Derecho Penal",
+    "subtema": "Sentencia Absolutoria",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una sentencia absolutoria?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La orden de prisión preventiva dictada al concluir la instrucción fiscal por haberse probado el dolo."
+      },
+      {
+        "id": "B",
+        "texto": "El fallo que declara la culpabilidad del procesado pero sustituye la pena privativa por expulsión territorial."
+      },
+      {
+        "id": "C",
+        "texto": "Es una resolución judicial. Consiste en la decisión que determina que no se ha demostrado la responsabilidad penal de la persona procesada conforme a las exigencias legales."
+      },
+      {
+        "id": "D",
+        "texto": "La resolución administrativa que impone medidas de corrección disciplinaria en centros carcelarios."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una resolución judicial. Consiste en la decisión que determina que no se ha demostrado la responsabilidad penal de la persona procesada conforme a las exigencias legales.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 619, 622).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 619, 622",
+      "textoSoporte": "Es una resolución judicial. Consiste en la decisión que determina que no se ha demostrado la responsabilidad penal de la persona procesada conforme a las exigencias legales.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-43",
+    "codigoOficial": "JR-COIP-PROC-2026-043",
+    "materia": "Derecho Penal",
+    "subtema": "Motivación de las Resoluciones Judiciales",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la motivación de la sentencia?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La mera enunciación de artículos legales y jurisprudencia sin explicar su pertinencia al caso concreto."
+      },
+      {
+        "id": "B",
+        "texto": "La transcripción literal de la denuncia y los alegatos sin valorar las pruebas producidas en audiencia."
+      },
+      {
+        "id": "C",
+        "texto": "Un informe estadístico sobre el índice delictivo local redactado por la secretaría del juzgado."
+      },
+      {
+        "id": "D",
+        "texto": "Es una garantía del debido proceso. Consiste en la exposición clara de los hechos probados, las normas aplicables y el razonamiento jurídico que sustenta la decisión judicial."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía del debido proceso. Consiste en la exposición clara de los hechos probados, las normas aplicables y el razonamiento jurídico que sustenta la decisión judicial.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (CRE Art. 76 num. 7 lit. l; COIP Art. 622 num. 3).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "CRE Art. 76 num. 7 lit. l; COIP Art. 622 num. 3",
+      "textoSoporte": "Es una garantía del debido proceso. Consiste en la exposición clara de los hechos probados, las normas aplicables y el razonamiento jurídico que sustenta la decisión judicial.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-44",
+    "codigoOficial": "JR-COIP-PROC-2026-044",
+    "materia": "Derecho Penal",
+    "subtema": "Recurso de Apelación - Naturaleza Ordinaria",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el recurso de apelación en el procedimiento penal ecuatoriano?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un medio de impugnación ordinario. Consiste en solicitar que una autoridad jurisdiccional superior revise una resolución judicial en los casos previstos por la ley."
+      },
+      {
+        "id": "B",
+        "texto": "Un recurso extraordinario interpuesto ante la Corte Constitucional para dirimir competencias entre salas."
+      },
+      {
+        "id": "C",
+        "texto": "Una solicitud verbal dirigida al mismo juez de primera instancia para que revoque de plano su propia providencia."
+      },
+      {
+        "id": "D",
+        "texto": "Una acción de tutela penal para juzgar a jueces por supuestas infracciones disciplinarias ante el Consejo de la Judicatura."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio de impugnación ordinario. Consiste en solicitar que una autoridad jurisdiccional superior revise una resolución judicial en los casos previstos por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 653, 654).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 653, 654",
+      "textoSoporte": "Es un medio de impugnación ordinario. Consiste en solicitar que una autoridad jurisdiccional superior revise una resolución judicial en los casos previstos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-45",
+    "codigoOficial": "JR-COIP-PROC-2026-045",
+    "materia": "Derecho Penal",
+    "subtema": "Finalidad de los Recursos Procesales",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de los recursos procesales?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Dilatar indefinidamente la ejecución de fallos firmes para provocar la prescripción extintiva de la acción penal."
+      },
+      {
+        "id": "B",
+        "texto": "Permitir el control de legalidad de las decisiones judiciales y corregir errores jurídicos o procesales que puedan afectar los derechos de las partes."
+      },
+      {
+        "id": "C",
+        "texto": "Substituir a los defensores privados por defensores públicos de oficio en todas las instancias."
+      },
+      {
+        "id": "D",
+        "texto": "Impedir que las resoluciones judiciales adquieran la autoridad de cosa juzgada formal o material."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Permitir el control de legalidad de las decisiones judiciales y corregir errores jurídicos o procesales que puedan afectar los derechos de las partes.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 652; CRE Art. 76 num. 7 lit. m).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 652; CRE Art. 76 num. 7 lit. m",
+      "textoSoporte": "Permitir el control de legalidad de las decisiones judiciales y corregir errores jurídicos o procesales que puedan afectar los derechos de las partes.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-46",
+    "codigoOficial": "JR-COIP-PROC-2026-046",
+    "materia": "Derecho Penal",
+    "subtema": "Recurso de Apelación - Control Jurisdiccional",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el recurso de apelación según su finalidad de revisión de legalidad y corrección ante el superior jerárquico?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Un procedimiento administrativo mediante el cual se interpone queja contra el secretario de la sala."
+      },
+      {
+        "id": "B",
+        "texto": "Un trámite de mediación penal que permite a la víctima y al procesado negociar el tipo penal aplicable."
+      },
+      {
+        "id": "C",
+        "texto": "Es un medio de impugnación ordinario. Consiste en solicitar que una autoridad jurisdiccional superior revise una resolución judicial para verificar su legalidad y corrección."
+      },
+      {
+        "id": "D",
+        "texto": "Un recurso extraordinario restringido únicamente a corregir errores mecanográficos en la sentencia."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio de impugnación ordinario. Consiste en solicitar que una autoridad jurisdiccional superior revise una resolución judicial para verificar su legalidad y corrección.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 653).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 653",
+      "textoSoporte": "Es un medio de impugnación ordinario. Consiste en solicitar que una autoridad jurisdiccional superior revise una resolución judicial para verificar su legalidad y corrección.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-47",
+    "codigoOficial": "JR-COIP-PROC-2026-047",
+    "materia": "Derecho Penal",
+    "subtema": "Recurso de Casación",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el recurso de casación?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Una tercera instancia procesal donde se vuelven a practicar y revalorar todos los testimonios y peritajes de juicio."
+      },
+      {
+        "id": "B",
+        "texto": "Una queja disciplinaria interpuesta ante la Corte Nacional de Justicia contra fiscales de primer nivel."
+      },
+      {
+        "id": "C",
+        "texto": "Un remedio procesal ordinario de aplicación automática sin necesidad de fundamentar vicio legal alguno."
+      },
+      {
+        "id": "D",
+        "texto": "Es un medio extraordinario de impugnación. Consiste en solicitar el control de la correcta aplicación e interpretación de la ley por parte de los tribunales inferiores."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio extraordinario de impugnación. Consiste en solicitar el control de la correcta aplicación e interpretación de la ley por parte de los tribunales inferiores.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 656, 657).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 656, 657",
+      "textoSoporte": "Es un medio extraordinario de impugnación. Consiste en solicitar el control de la correcta aplicación e interpretación de la ley por parte de los tribunales inferiores.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-48",
+    "codigoOficial": "JR-COIP-PROC-2026-048",
+    "materia": "Derecho Penal",
+    "subtema": "Recurso de Revisión",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el recurso de revisión?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un medio extraordinario de impugnación. Consiste en revisar sentencias condenatorias ejecutoriadas en los casos expresamente previstos por la ley."
+      },
+      {
+        "id": "B",
+        "texto": "Un recurso ordinario aplicable a cualquier auto interlocutorio antes de que concluya la instrucción fiscal."
+      },
+      {
+        "id": "C",
+        "texto": "El derecho de la víctima a impugnar sentencias absolutorias ejecutoriadas para solicitar una nueva pena."
+      },
+      {
+        "id": "D",
+        "texto": "La facultad del tribunal de juicio de reabrir el debate probatorio tras haber notificado la sentencia por escrito."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio extraordinario de impugnación. Consiste en revisar sentencias condenatorias ejecutoriadas en los casos expresamente previstos por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 658, 659).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 658, 659",
+      "textoSoporte": "Es un medio extraordinario de impugnación. Consiste en revisar sentencias condenatorias ejecutoriadas en los casos expresamente previstos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-49",
+    "codigoOficial": "JR-COIP-PROC-2026-049",
+    "materia": "Derecho Penal",
+    "subtema": "Cosa Juzgada Penal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la cosa juzgada en materia penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La suspensión temporal del plazo procesal por caso fortuito o fuerza mayor declarada por el juez."
+      },
+      {
+        "id": "B",
+        "texto": "Es un efecto jurídico de las resoluciones firmes. Consiste en la imposibilidad de volver a juzgar una causa ya resuelta mediante decisión ejecutoriada, salvo las excepciones legales."
+      },
+      {
+        "id": "C",
+        "texto": "La orden de llamamiento a juicio que impide al imputado salir del país durante la etapa preparatoria."
+      },
+      {
+        "id": "D",
+        "texto": "El dictamen vinculante de la fiscalía que dispone la realización de pericias complementarias de balística."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es un efecto jurídico de las resoluciones firmes. Consiste en la imposibilidad de volver a juzgar una causa ya resuelta mediante decisión ejecutoriada, salvo las excepciones legales.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 5 num. 9; CRE Art. 76 num. 7 lit. i).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 5 num. 9; CRE Art. 76 num. 7 lit. i",
+      "textoSoporte": "Es un efecto jurídico de las resoluciones firmes. Consiste en la imposibilidad de volver a juzgar una causa ya resuelta mediante decisión ejecutoriada, salvo las excepciones legales.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-50",
+    "codigoOficial": "JR-COIP-PROC-2026-050",
+    "materia": "Derecho Penal",
+    "subtema": "Principio Non Bis In Idem",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio non bis in idem en el proceso penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La potestad del acusador particular de incoar múltiples querellas penales sucesivas por un mismo acontecimiento."
+      },
+      {
+        "id": "B",
+        "texto": "La prohibición legal de interponer recursos ordinarios contra fallos dictados en procedimientos abreviados."
+      },
+      {
+        "id": "C",
+        "texto": "Es una garantía constitucional y procesal. Consiste en el derecho de toda persona a no ser juzgada ni sancionada dos veces por los mismos hechos y fundamentos."
+      },
+      {
+        "id": "D",
+        "texto": "El derecho de la fiscalía a reabrir investigaciones prescritas si aparecen nuevas quejas ciudadanas en redes sociales."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía constitucional y procesal. Consiste en el derecho de toda persona a no ser juzgada ni sancionada dos veces por los mismos hechos y fundamentos.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (CRE Art. 76 num. 7 lit. i; COIP Art. 5 num. 9).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "CRE Art. 76 num. 7 lit. i; COIP Art. 5 num. 9",
+      "textoSoporte": "Es una garantía constitucional y procesal. Consiste en el derecho de toda persona a no ser juzgada ni sancionada dos veces por los mismos hechos y fundamentos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-51",
+    "codigoOficial": "JR-COIP-PROC-2026-051",
+    "materia": "Derecho Penal",
+    "subtema": "Acción Penal Privada",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la acción penal privada?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La acción que ejerce de oficio y de manera obligatoria la Fiscalía General del Estado en delitos de homicidio."
+      },
+      {
+        "id": "B",
+        "texto": "El reclamo de indemnización de daños y perjuicios incoado exclusivamente ante los tribunales contencioso administrativos."
+      },
+      {
+        "id": "C",
+        "texto": "La persecución policial inmediata de contravenciones de tránsito flagrantes sin intervención de juzgadores."
+      },
+      {
+        "id": "D",
+        "texto": "Es una modalidad de ejercicio de la acción penal. Consiste en la facultad reconocida a la víctima para promover directamente el juzgamiento de determinadas infracciones establecidas por la ley."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una modalidad de ejercicio de la acción penal. Consiste en la facultad reconocida a la víctima para promover directamente el juzgamiento de determinadas infracciones establecidas por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 415, 417).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 415, 417",
+      "textoSoporte": "Es una modalidad de ejercicio de la acción penal. Consiste en la facultad reconocida a la víctima para promover directamente el juzgamiento de determinadas infracciones establecidas por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-52",
+    "codigoOficial": "JR-COIP-PROC-2026-052",
+    "materia": "Derecho Penal",
+    "subtema": "Querella en Acción Penal Privada",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la querella?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un acto procesal propio de la acción penal privada. Consiste en la manifestación formal mediante la cual la víctima ejerce la acción penal ante la autoridad competente."
+      },
+      {
+        "id": "B",
+        "texto": "La denuncia verbal formulada ante agentes de tránsito en siniestros viales con daños materiales."
+      },
+      {
+        "id": "C",
+        "texto": "El informe reservado de inteligencia policial remitido a la fiscalía sobre crimen organizado transnacional."
+      },
+      {
+        "id": "D",
+        "texto": "La solicitud de medidas de protección urgentes tramitada exclusivamente ante juntas cantonales de protección de derechos."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un acto procesal propio de la acción penal privada. Consiste en la manifestación formal mediante la cual la víctima ejerce la acción penal ante la autoridad competente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 647, 648).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 647, 648",
+      "textoSoporte": "Es un acto procesal propio de la acción penal privada. Consiste en la manifestación formal mediante la cual la víctima ejerce la acción penal ante la autoridad competente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-53",
+    "codigoOficial": "JR-COIP-PROC-2026-053",
+    "materia": "Derecho Penal",
+    "subtema": "Diferencia entre Denuncia y Querella",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la diferencia entre denuncia y querella?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La denuncia solo la puede presentar un juez en funciones, mientras que la querella la presenta la policía judicial."
+      },
+      {
+        "id": "B",
+        "texto": "La denuncia pone en conocimiento de la autoridad la posible existencia de una infracción penal, mientras que la querella constituye el ejercicio formal de la acción penal privada por parte de la víctima."
+      },
+      {
+        "id": "C",
+        "texto": "La querella es obligatoria en todos los delitos de acción penal pública como asesinato y robo con violencia."
+      },
+      {
+        "id": "D",
+        "texto": "No existe distinción procesal en el ordenamiento ecuatoriano; ambas generan el inicio automático de instrucción fiscal de oficio."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"La denuncia pone en conocimiento de la autoridad la posible existencia de una infracción penal, mientras que la querella constituye el ejercicio formal de la acción penal privada por parte de la víctima.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 421, 647).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 421, 647",
+      "textoSoporte": "La denuncia pone en conocimiento de la autoridad la posible existencia de una infracción penal, mientras que la querella constituye el ejercicio formal de la acción penal privada por parte de la víctima.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-54",
+    "codigoOficial": "JR-COIP-PROC-2026-054",
+    "materia": "Derecho Penal",
+    "subtema": "Procedimiento Abreviado",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el procedimiento abreviado?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Un juicio plenario ordinario donde se evacuan peritajes científicos durante varias semanas consecutivas."
+      },
+      {
+        "id": "B",
+        "texto": "Un trámite contravencional sin asistencia de abogado defensor en el que se impone trabajo comunitario."
+      },
+      {
+        "id": "C",
+        "texto": "Es un procedimiento especial penal. Consiste en una forma simplificada de resolución del proceso basada en la aceptación de responsabilidad por parte de la persona procesada y el cumplimiento de los requisitos legales establecidos."
+      },
+      {
+        "id": "D",
+        "texto": "La absolución obligatoria del procesado que colabora económicamente con los fondos del Consejo de la Judicatura."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un procedimiento especial penal. Consiste en una forma simplificada de resolución del proceso basada en la aceptación de responsabilidad por parte de la persona procesada y el cumplimiento de los requisitos legales establecidos.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 635, 636).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 635, 636",
+      "textoSoporte": "Es un procedimiento especial penal. Consiste en una forma simplificada de resolución del proceso basada en la aceptación de responsabilidad por parte de la persona procesada y el cumplimiento de los requisitos legales establecidos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-55",
+    "codigoOficial": "JR-COIP-PROC-2026-055",
+    "materia": "Derecho Penal",
+    "subtema": "Finalidad del Procedimiento Abreviado",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad del procedimiento abreviado?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Eliminar por completo el derecho a la defensa y prohibir al imputado asesorarse con su abogado."
+      },
+      {
+        "id": "B",
+        "texto": "Imponer penas superiores a las fijadas legalmente para dar un escarmiento ejemplar a la sociedad."
+      },
+      {
+        "id": "C",
+        "texto": "Trasladar la potestad de juzgar delitos graves a comisarías de policía para descongestionar cortes."
+      },
+      {
+        "id": "D",
+        "texto": "Lograr una solución más rápida del conflicto penal respetando las garantías constitucionales y procesales."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Lograr una solución más rápida del conflicto penal respetando las garantías constitucionales y procesales.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 635).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 635",
+      "textoSoporte": "Lograr una solución más rápida del conflicto penal respetando las garantías constitucionales y procesales.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-56",
+    "codigoOficial": "JR-COIP-PROC-2026-056",
+    "materia": "Derecho Penal",
+    "subtema": "Procedimiento Directo",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el procedimiento directo?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un procedimiento especial penal. Consiste en una modalidad simplificada y concentrada de juzgamiento aplicable a determinados casos previstos por la ley."
+      },
+      {
+        "id": "B",
+        "texto": "Un juicio que prescinde totalmente de la presencia del juzgador penal y de audiencia de juzgamiento."
+      },
+      {
+        "id": "C",
+        "texto": "Un recurso extraordinario tramitado ante el Pleno de la Corte Nacional contra fallos ejecutoriados de hábeas corpus."
+      },
+      {
+        "id": "D",
+        "texto": "El procedimiento obligatorio para juzgar crímenes de lesa humanidad y genocidio con jurados ciudadanos."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un procedimiento especial penal. Consiste en una modalidad simplificada y concentrada de juzgamiento aplicable a determinados casos previstos por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 640).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 640",
+      "textoSoporte": "Es un procedimiento especial penal. Consiste en una modalidad simplificada y concentrada de juzgamiento aplicable a determinados casos previstos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-57",
+    "codigoOficial": "JR-COIP-PROC-2026-057",
+    "materia": "Derecho Penal",
+    "subtema": "Características del Procedimiento Directo",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué caracteriza al procedimiento directo?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La eliminación de la audiencia de juicio y la imposibilidad de que el procesado presente pruebas de descargo."
+      },
+      {
+        "id": "B",
+        "texto": "La concentración de etapas procesales y la reducción de tiempos para la resolución de la causa, manteniendo las garantías del debido proceso."
+      },
+      {
+        "id": "C",
+        "texto": "El requerimiento insubsanable de que el proceso penal dure como mínimo dos años con tres etapas separadas."
+      },
+      {
+        "id": "D",
+        "texto": "La delegación exclusiva del juzgamiento penal a tribunales arbitrales de cámaras de comercio."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"La concentración de etapas procesales y la reducción de tiempos para la resolución de la causa, manteniendo las garantías del debido proceso.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 640).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 640",
+      "textoSoporte": "La concentración de etapas procesales y la reducción de tiempos para la resolución de la causa, manteniendo las garantías del debido proceso.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-58",
+    "codigoOficial": "JR-COIP-PROC-2026-058",
+    "materia": "Derecho Penal",
+    "subtema": "Procedimiento Expedito Contravencional",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el procedimiento expedito en el marco general de los procedimientos especiales del COIP?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El enjuiciamiento penal de delitos de peculado y enriquecimiento ilícito sancionados con pena privativa mayor a diez años."
+      },
+      {
+        "id": "B",
+        "texto": "Un mecanismo de mediación previa obligatorio en casos de violencia sexual intrafamiliar no punible."
+      },
+      {
+        "id": "C",
+        "texto": "Es un procedimiento especial penal. Consiste en el trámite simplificado previsto para el juzgamiento de determinadas contravenciones establecidas por la ley."
+      },
+      {
+        "id": "D",
+        "texto": "Una fase de casación abreviada sustanciada ante jueces de paz territoriales en parroquias rurales."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un procedimiento especial penal. Consiste en el trámite simplificado previsto para el juzgamiento de determinadas contravenciones establecidas por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 641, 642).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 641, 642",
+      "textoSoporte": "Es un procedimiento especial penal. Consiste en el trámite simplificado previsto para el juzgamiento de determinadas contravenciones establecidas por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-59",
+    "codigoOficial": "JR-COIP-PROC-2026-059",
+    "materia": "Derecho Penal",
+    "subtema": "Procedimiento Ordinario",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el procedimiento ordinario?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El trámite sumario reservado exclusivamente para sancionar faltas leves de tránsito en audiencia única de 20 minutos."
+      },
+      {
+        "id": "B",
+        "texto": "Un procedimiento facultativo aplicable únicamente cuando la víctima y el imputado acuerdan renunciar al Código Penal."
+      },
+      {
+        "id": "C",
+        "texto": "El juicio político de censura destitución sustanciado en la Asamblea Nacional contra funcionarios del Estado."
+      },
+      {
+        "id": "D",
+        "texto": "Es el procedimiento penal común. Consiste en el trámite general aplicable cuando la ley no establece un procedimiento especial."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es el procedimiento penal común. Consiste en el trámite general aplicable cuando la ley no establece un procedimiento especial.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 589, 601, 609).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 589, 601, 609",
+      "textoSoporte": "Es el procedimiento penal común. Consiste en el trámite general aplicable cuando la ley no establece un procedimiento especial.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-60",
+    "codigoOficial": "JR-COIP-PROC-2026-060",
+    "materia": "Derecho Penal",
+    "subtema": "Ejecución de la Sentencia Penal",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la ejecución de la sentencia?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una etapa procesal posterior al juzgamiento. Consiste en el cumplimiento efectivo de la decisión judicial ejecutoriada y de las consecuencias jurídicas derivadas de ella."
+      },
+      {
+        "id": "B",
+        "texto": "La reapertura indefinida del debate probatorio sobre la inocencia del procesado tras el fallo condenatorio."
+      },
+      {
+        "id": "C",
+        "texto": "El trámite administrativo de calificación de la flagrancia llevado a cabo dentro de las 24 horas del arresto."
+      },
+      {
+        "id": "D",
+        "texto": "La fase previa en la que fiscalía recopila testimonios sin vinculación jurisdiccional."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una etapa procesal posterior al juzgamiento. Consiste en el cumplimiento efectivo de la decisión judicial ejecutoriada y de las consecuencias jurídicas derivadas de ella.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 666, 667).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 666, 667",
+      "textoSoporte": "Es una etapa procesal posterior al juzgamiento. Consiste en el cumplimiento efectivo de la decisión judicial ejecutoriada y de las consecuencias jurídicas derivadas de ella.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-61",
+    "codigoOficial": "JR-COIP-PROC-2026-061",
+    "materia": "Derecho Penal",
+    "subtema": "Finalidad de la Ejecución Penal y Rehabilitación Social",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de la ejecución penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Aislar permanentemente al condenado sin posibilidades de acceso a educación, salud ni reinserción familiar."
+      },
+      {
+        "id": "B",
+        "texto": "Garantizar el cumplimiento de la sentencia ejecutoriada, proteger los derechos de las personas sentenciadas y promover su rehabilitación social."
+      },
+      {
+        "id": "C",
+        "texto": "Delegar la administración de los centros penitenciarios a las aseguradoras de fianzas comerciales privadas."
+      },
+      {
+        "id": "D",
+        "texto": "Suspender indefinidamente las garantías constitucionales del debido proceso durante el cumplimiento de la pena."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Garantizar el cumplimiento de la sentencia ejecutoriada, proteger los derechos de las personas sentenciadas y promover su rehabilitación social.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (CRE Art. 201; COIP Art. 666).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "CRE Art. 201; COIP Art. 666",
+      "textoSoporte": "Garantizar el cumplimiento de la sentencia ejecutoriada, proteger los derechos de las personas sentenciadas y promover su rehabilitación social.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-62",
+    "codigoOficial": "JR-COIP-PROC-2026-062",
+    "materia": "Derecho Penal",
+    "subtema": "Competencia de Garantías Penitenciarias",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué autoridad controla la ejecución de la pena?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El director de la cárcel de forma autónoma sin someterse a control jurisdiccional ni al ordenamiento legal."
+      },
+      {
+        "id": "B",
+        "texto": "El tribunal de arbitraje de la cámara de la construcción designado por el Ministerio de Gobierno."
+      },
+      {
+        "id": "C",
+        "texto": "La jueza o juez de garantías penitenciarias, dentro de las competencias establecidas por la ley."
+      },
+      {
+        "id": "D",
+        "texto": "El comandante general de la policía nacional a través de órdenes generales internas de policía."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"La jueza o juez de garantías penitenciarias, dentro de las competencias establecidas por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (COIP Art. 666; COFJ Art. 230).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "COIP Art. 666; COFJ Art. 230",
+      "textoSoporte": "La jueza o juez de garantías penitenciarias, dentro de las competencias establecidas por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-PROC-PEN-63",
+    "codigoOficial": "JR-COIP-PROC-2026-063",
+    "materia": "Derecho Penal",
+    "subtema": "Fines del Proceso Penal Ecuatoriano",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el objetivo general del procedimiento penal ecuatoriano?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Asegurar condenas punitivas inmediatas prescindiendo de presunción de inocencia y de contradicción."
+      },
+      {
+        "id": "B",
+        "texto": "Facilitar la elusión de responsabilidades penales mediante aranceles judiciales discrecionales no normados."
+      },
+      {
+        "id": "C",
+        "texto": "Subordinar las resoluciones de los tribunales de garantías penales a resoluciones de asambleas barriales."
+      },
+      {
+        "id": "D",
+        "texto": "Garantizar el debido proceso, determinar la existencia de infracciones penales conforme a la ley, proteger los derechos de las víctimas y de las personas procesadas, y asegurar una resolución justa del conflicto penal."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Garantizar el debido proceso, determinar la existencia de infracciones penales conforme a la ley, proteger los derechos de las víctimas y de las personas procesadas, y asegurar una resolución justa del conflicto penal.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 1, 5; CRE Art. 76, 77, 78).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "B": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "C": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales.",
+      "D": "Alternativa analizada técnicamente conforme al derecho procesal penal ecuatoriano y garantías constitucionales."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 1, 5; CRE Art. 76, 77, 78",
+      "textoSoporte": "Garantizar el debido proceso, determinar la existencia de infracciones penales conforme a la ley, proteger los derechos de las víctimas y de las personas procesadas, y asegurar una resolución justa del conflicto penal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Garantías del debido proceso, inmediación, contradicción, medidas cautelares excepcionales e impugnación ordinaria y extraordinaria."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Procedimientos Penales JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  }
+]

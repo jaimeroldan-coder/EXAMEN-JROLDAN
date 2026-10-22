@@ -1,0 +1,54 @@
+[
+  {
+    "id": "PEN-001",
+    "perfil": ["penal", "personalizado"],
+    "materia": "Derecho Constitucional",
+    "subtema": "Disposiciones comunes de las garantías jurisdiccionales",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "En la sustanciación de una acción de protección, ¿cuál es el término máximo para que el juzgador convoque a la audiencia pública constitucional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Dentro de las veinticuatro horas siguientes a la presentación de la demanda."
+      },
+      {
+        "id": "B",
+        "texto": "En el término de tres días contados desde la calificación de la demanda."
+      },
+      {
+        "id": "C",
+        "texto": "En un plazo improrrogable de diez días hábiles."
+      },
+      {
+        "id": "D",
+        "texto": "Queda a criterio discrecional de la secretaría de la judicatura."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "El artículo 13 de la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional dispone la convocatoria a audiencia dentro del término de tres días.",
+    "explicacionDistractores": {
+      "A": "Veinticuatro horas aplica para la calificación inicial del hábeas corpus, no de la acción de protección.",
+      "C": "Diez días es el plazo general en procedimientos ordinarios y no en garantías constitucionales.",
+      "D": "En materia constitucional los términos procesales son de orden público y estricto cumplimiento."
+    },
+    "fuente": {
+      "norma": "Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional",
+      "articulo": "Artículo 13",
+      "textoSoporte": "La jueza o juez calificará la demanda dentro de las veinticuatro horas siguientes y convocará a audiencia en el término de tres días.",
+      "urlOficial": "https://www.corteconstitucional.gob.ec",
+      "fechaConsulta": "2026-03-01",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "numeroSentencia": "102-13-SEP-CC",
+      "organo": "Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Celeridad e inmediación en la sustanciación de audiencias de garantías jurisdiccionales.",
+      "urlOficial": "https://www.corteconstitucional.gob.ec"
+    },
+    "estado": "validada",
+    "observaciones": "Reactivo formativo modelo para banco oficial.",
+    "fechaCreacion": "2026-03-01T00:00:00.000Z",
+    "fechaActualizacion": "2026-03-01T00:00:00.000Z"
+  }
+]

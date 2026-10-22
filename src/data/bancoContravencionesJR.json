@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "JR-CONTRAV-1",
+    "codigoOficial": "JR-COIP-COFJ-2026-001",
+    "materia": "Derecho Penal",
+    "subtema": "Teoría de la Infracción Penal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una contravención?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una infracción penal de menor gravedad que el delito. Consiste en una conducta tipificada por la ley y sancionada con las penas previstas para las contravenciones."
+      },
+      {
+        "id": "B",
+        "texto": "Un acto puramente civil o administrativo que no genera consecuencias jurídicas ni sanción punitiva."
+      },
+      {
+        "id": "C",
+        "texto": "Un ilícito constitucional grave que únicamente puede ser sancionado con privación de libertad superior a cinco años."
+      },
+      {
+        "id": "D",
+        "texto": "Una falta disciplinaria cometida exclusivamente por servidores judiciales sancionada por el Consejo de la Judicatura."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una infracción penal de menor gravedad que el delito. Consiste en una conducta tipificada por la ley y sancionada con las penas previstas para las contravenciones.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 19).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 19",
+      "textoSoporte": "Es una infracción penal de menor gravedad que el delito. Consiste en una conducta tipificada por la ley y sancionada con las penas previstas para las contravenciones.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-2",
+    "codigoOficial": "JR-COIP-COFJ-2026-002",
+    "materia": "Derecho Penal",
+    "subtema": "Clasificación de Infracciones Penales",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cómo clasifica el Código Orgánico Integral Penal las infracciones penales?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "En crímenes, delitos y cuasidelitos."
+      },
+      {
+        "id": "B",
+        "texto": "En delitos y contravenciones."
+      },
+      {
+        "id": "C",
+        "texto": "En faltas administrativas, delitos comunes y delitos políticos."
+      },
+      {
+        "id": "D",
+        "texto": "En infracciones leves, graves y gravísimas de naturaleza contravencional."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"En delitos y contravenciones.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 19).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 19",
+      "textoSoporte": "En delitos y contravenciones.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-3",
+    "codigoOficial": "JR-COIP-COFJ-2026-003",
+    "materia": "Derecho Penal",
+    "subtema": "Distinción Dogmática de Infracciones",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la diferencia principal entre delito y contravención?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El delito es siempre culposo y no priva de libertad, mientras que la contravención exige necesariamente dolo directo y alevosía."
+      },
+      {
+        "id": "B",
+        "texto": "El delito se tramita ante jueces de paz y la contravención únicamente ante la Sala Penal de la Corte Nacional de Justicia."
+      },
+      {
+        "id": "C",
+        "texto": "El delito tiene mayor gravedad jurídica y una respuesta penal más severa, mientras que la contravención constituye una infracción penal de menor gravedad."
+      },
+      {
+        "id": "D",
+        "texto": "No existe ninguna diferencia; en el derecho penal ecuatoriano ambas figuras conllevan exactamente la misma sanción privativa."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"El delito tiene mayor gravedad jurídica y una respuesta penal más severa, mientras que la contravención constituye una infracción penal de menor gravedad.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 19).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 19",
+      "textoSoporte": "El delito tiene mayor gravedad jurídica y una respuesta penal más severa, mientras que la contravención constituye una infracción penal de menor gravedad.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-4",
+    "codigoOficial": "JR-COIP-COFJ-2026-004",
+    "materia": "Derecho Penal",
+    "subtema": "Jurisdicción y Competencia Contravencional",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Quién conoce y juzga las contravenciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Únicamente los tribunales penales colegiados mediante jurado popular."
+      },
+      {
+        "id": "B",
+        "texto": "Exclusivamente la Policía Nacional del Ecuador sin intervención de la función judicial."
+      },
+      {
+        "id": "C",
+        "texto": "Los fiscales de flagrancia mediante resolución administrativa motivada de clausura."
+      },
+      {
+        "id": "D",
+        "texto": "Las juezas y jueces de contravenciones o las autoridades judiciales competentes determinadas por la ley."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Las juezas y jueces de contravenciones o las autoridades judiciales competentes determinadas por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 231 COFJ, Art. 641 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 231 COFJ, Art. 641 COIP",
+      "textoSoporte": "Las juezas y jueces de contravenciones o las autoridades judiciales competentes determinadas por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-5",
+    "codigoOficial": "JR-COIP-COFJ-2026-005",
+    "materia": "Derecho Penal",
+    "subtema": "Procedimiento Expedito",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el procedimiento expedito en materia de contravenciones penales y de tránsito?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un procedimiento especial penal. Consiste en un trámite simplificado y ágil previsto para el juzgamiento de determinadas contravenciones."
+      },
+      {
+        "id": "B",
+        "texto": "Un proceso ordinario formal con etapas de investigación previa e instrucción fiscal de noventa días obligatorios."
+      },
+      {
+        "id": "C",
+        "texto": "Un recurso extraordinario ante la Corte Constitucional para dirimir competencias entre salas de apelación."
+      },
+      {
+        "id": "D",
+        "texto": "Un mecanismo arbitral voluntario donde la víctima y el infractor fijan una indemnización patrimonial sin juez."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un procedimiento especial penal. Consiste en un trámite simplificado y ágil previsto para el juzgamiento de determinadas contravenciones.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 641-644).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 641-644",
+      "textoSoporte": "Es un procedimiento especial penal. Consiste en un trámite simplificado y ágil previsto para el juzgamiento de determinadas contravenciones.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-6",
+    "codigoOficial": "JR-COIP-COFJ-2026-006",
+    "materia": "Derecho Penal",
+    "subtema": "Principios y Garantías Constitucionales",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué principios constitucionales se aplican al juzgamiento de contravenciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Inquisitivo escrito, secreto de actuaciones, presunción de culpabilidad y doble juzgamiento preferente."
+      },
+      {
+        "id": "B",
+        "texto": "Debido proceso, derecho a la defensa, contradicción, inmediación, oralidad, motivación, igualdad y presunción de inocencia."
+      },
+      {
+        "id": "C",
+        "texto": "Exclusivamente el principio de oportunidad fiscal con prescindencia del derecho a la defensa contradictoria."
+      },
+      {
+        "id": "D",
+        "texto": "Aplicación restrictiva de la mediación civil patrimonial con suspensión total de las garantías del debido proceso."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Debido proceso, derecho a la defensa, contradicción, inmediación, oralidad, motivación, igualdad y presunción de inocencia.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 CRE, Art. 5 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 CRE, Art. 5 COIP",
+      "textoSoporte": "Debido proceso, derecho a la defensa, contradicción, inmediación, oralidad, motivación, igualdad y presunción de inocencia.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-7",
+    "codigoOficial": "JR-COIP-COFJ-2026-007",
+    "materia": "Derecho Penal",
+    "subtema": "Presunción de Inocencia",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Se aplica la presunción de inocencia en materia contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "No, porque en materia contravencional rige una presunción legal de culpabilidad desde la aprehensión policial."
+      },
+      {
+        "id": "B",
+        "texto": "Únicamente se aplica si el procesado rinde caución pecuniaria ante el juzgado de contravenciones."
+      },
+      {
+        "id": "C",
+        "texto": "Sí. Toda persona debe ser considerada inocente mientras no exista una resolución condenatoria legalmente válida."
+      },
+      {
+        "id": "D",
+        "texto": "Solo se reconoce cuando la contravención es contra la propiedad y no cuando afecta a las personas."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Sí. Toda persona debe ser considerada inocente mientras no exista una resolución condenatoria legalmente válida.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 2 CRE, Art. 5 num. 4 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 2 CRE, Art. 5 num. 4 COIP",
+      "textoSoporte": "Sí. Toda persona debe ser considerada inocente mientras no exista una resolución condenatoria legalmente válida.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-8",
+    "codigoOficial": "JR-COIP-COFJ-2026-008",
+    "materia": "Derecho Penal",
+    "subtema": "Motivación Judicial",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la motivación de una resolución judicial?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La simple mención aislada de artículos de la ley sin explicar su pertinencia con los hechos fácticos probados."
+      },
+      {
+        "id": "B",
+        "texto": "La transcripción íntegra de la denuncia o parte policial sin análisis lógico ni valoración probatoria propia."
+      },
+      {
+        "id": "C",
+        "texto": "Una facultad meramente discrecional y optativa del juzgador reservada solo para juicios de apelación penal."
+      },
+      {
+        "id": "D",
+        "texto": "Es una garantía constitucional. Consiste en exponer los hechos, las normas aplicables y el razonamiento jurídico que fundamenta la decisión adoptada."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía constitucional. Consiste en exponer los hechos, las normas aplicables y el razonamiento jurídico que fundamenta la decisión adoptada.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 lit. l CRE, Art. 130 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 76 num. 7 lit. l CRE, Art. 130 COFJ",
+      "textoSoporte": "Es una garantía constitucional. Consiste en exponer los hechos, las normas aplicables y el razonamiento jurídico que fundamenta la decisión adoptada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-9",
+    "codigoOficial": "JR-COIP-COFJ-2026-009",
+    "materia": "Derecho Penal",
+    "subtema": "Dirección de la Audiencia",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Quién dirige la audiencia de juzgamiento de una contravención?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La jueza o juez competente para conocer y resolver la contravención."
+      },
+      {
+        "id": "B",
+        "texto": "El oficial de policía que practicó la aprehensión o levantó la boleta de citación contravencional."
+      },
+      {
+        "id": "C",
+        "texto": "El secretario del despacho judicial previa autorización verbal del agente fiscal de turno."
+      },
+      {
+        "id": "D",
+        "texto": "El defensor público en coordinación con el acusador particular o denunciante."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"La jueza o juez competente para conocer y resolver la contravención.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 563, 642 COIP, Art. 130 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 563, 642 COIP, Art. 130 COFJ",
+      "textoSoporte": "La jueza o juez competente para conocer y resolver la contravención.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-10",
+    "codigoOficial": "JR-COIP-COFJ-2026-010",
+    "materia": "Derecho Penal",
+    "subtema": "Flagrancia Contravencional",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la flagrancia en materia contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La presentación de una denuncia escrita ante la fiscalía transcurridos treinta días desde la infracción."
+      },
+      {
+        "id": "B",
+        "texto": "Es una institución procesal. Consiste en sorprender a una persona cometiendo una contravención o inmediatamente después de haberla cometido, en los casos previstos por la ley."
+      },
+      {
+        "id": "C",
+        "texto": "El inicio de una indagación previa formal por sospecha fundada sin que exista inmediatez temporal ni física."
+      },
+      {
+        "id": "D",
+        "texto": "La confesión voluntaria del investigado rendida quince días después del cometimiento de la falta punible."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución procesal. Consiste en sorprender a una persona cometiendo una contravención o inmediatamente después de haberla cometido, en los casos previstos por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 527 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 527 COIP",
+      "textoSoporte": "Es una institución procesal. Consiste en sorprender a una persona cometiendo una contravención o inmediatamente después de haberla cometido, en los casos previstos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-11",
+    "codigoOficial": "JR-COIP-COFJ-2026-011",
+    "materia": "Derecho Penal",
+    "subtema": "Medios de Prueba: Testimonial",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prueba testimonial en el juzgamiento de contravenciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El informe técnico pericial elaborado por un laboratorio químico acreditado de criminalística."
+      },
+      {
+        "id": "B",
+        "texto": "La incorporación material de instrumentos públicos certificados por el registrador de la propiedad."
+      },
+      {
+        "id": "C",
+        "texto": "Es un medio de prueba. Consiste en la declaración realizada por una persona sobre hechos relevantes para el procedimiento contravencional."
+      },
+      {
+        "id": "D",
+        "texto": "Una alegación verbal de cierre emitida por los abogados defensores sin juramento ni contradicción."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio de prueba. Consiste en la declaración realizada por una persona sobre hechos relevantes para el procedimiento contravencional.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 501-507 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 501-507 COIP",
+      "textoSoporte": "Es un medio de prueba. Consiste en la declaración realizada por una persona sobre hechos relevantes para el procedimiento contravencional.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-12",
+    "codigoOficial": "JR-COIP-COFJ-2026-012",
+    "materia": "Derecho Penal",
+    "subtema": "Medios de Prueba: Documental",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prueba documental en materia de contravenciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La declaración jurada de la víctima rendida verbalmente en la audiencia ante el juzgador."
+      },
+      {
+        "id": "B",
+        "texto": "El examen físico o psicológico realizado a la persona procesada por médicos forenses."
+      },
+      {
+        "id": "C",
+        "texto": "La reconstrucción virtual de los hechos efectuada mediante inspección judicial ocular."
+      },
+      {
+        "id": "D",
+        "texto": "Es un medio de prueba. Consiste en documentos físicos o electrónicos legalmente incorporados al procedimiento para demostrar hechos relevantes."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio de prueba. Consiste en documentos físicos o electrónicos legalmente incorporados al procedimiento para demostrar hechos relevantes.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 499-500 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 499-500 COIP",
+      "textoSoporte": "Es un medio de prueba. Consiste en documentos físicos o electrónicos legalmente incorporados al procedimiento para demostrar hechos relevantes.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-13",
+    "codigoOficial": "JR-COIP-COFJ-2026-013",
+    "materia": "Derecho Penal",
+    "subtema": "Medios de Prueba: Pericial",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prueba pericial en el juzgamiento de contravenciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un medio de prueba. Consiste en la opinión técnica, científica o especializada emitida por un experto respecto de materias que requieren conocimientos específicos."
+      },
+      {
+        "id": "B",
+        "texto": "El relato fáctico espontáneo de testigos presenciales que no poseen formación científica."
+      },
+      {
+        "id": "C",
+        "texto": "El parte informativo elaborado por el agente de tránsito sin acreditación en el sistema pericial."
+      },
+      {
+        "id": "D",
+        "texto": "La resolución sancionatoria emitida con anterioridad por un juez de paz en la misma parroquia."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un medio de prueba. Consiste en la opinión técnica, científica o especializada emitida por un experto respecto de materias que requieren conocimientos específicos.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 511 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 511 COIP",
+      "textoSoporte": "Es un medio de prueba. Consiste en la opinión técnica, científica o especializada emitida por un experto respecto de materias que requieren conocimientos específicos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-14",
+    "codigoOficial": "JR-COIP-COFJ-2026-014",
+    "materia": "Derecho Penal",
+    "subtema": "Valoración Probatoria",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué debe hacer el juez al valorar la prueba?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Aplicar la íntima convicción subjetiva prescindiendo de toda fundamentación o contraste analítico."
+      },
+      {
+        "id": "B",
+        "texto": "Analizarla de manera integral, lógica, objetiva y motivada conforme a la Constitución y la ley."
+      },
+      {
+        "id": "C",
+        "texto": "Dar valor de prueba plena tarifada exclusivamente al informe policial sin contrastarlo con la defensa."
+      },
+      {
+        "id": "D",
+        "texto": "Rechazar de plano toda prueba de descargo presentada por el procesado en ejercicio de su defensa."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Analizarla de manera integral, lógica, objetiva y motivada conforme a la Constitución y la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 457 COIP, Art. 115 COGEP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 457 COIP, Art. 115 COGEP",
+      "textoSoporte": "Analizarla de manera integral, lógica, objetiva y motivada conforme a la Constitución y la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-15",
+    "codigoOficial": "JR-COIP-COFJ-2026-015",
+    "materia": "Derecho Penal",
+    "subtema": "Sentencia Condenatoria",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una sentencia condenatoria en materia contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Un decreto de mero trámite que convoca a una nueva fecha de audiencia preliminar de conciliación."
+      },
+      {
+        "id": "B",
+        "texto": "Una resolución que ratifica la inocencia procesal y ordena el archivo definitivo de la causa contravencional."
+      },
+      {
+        "id": "C",
+        "texto": "Es una resolución judicial. Consiste en la declaración de responsabilidad de la persona procesada por una contravención y la imposición de la sanción correspondiente prevista por la ley."
+      },
+      {
+        "id": "D",
+        "texto": "Un dictamen fiscal abstentivo que inhibe al juzgador de pronunciarse sobre el fondo del litigio."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una resolución judicial. Consiste en la declaración de responsabilidad de la persona procesada por una contravención y la imposición de la sanción correspondiente prevista por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 643, 621 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 643, 621 COIP",
+      "textoSoporte": "Es una resolución judicial. Consiste en la declaración de responsabilidad de la persona procesada por una contravención y la imposición de la sanción correspondiente prevista por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-16",
+    "codigoOficial": "JR-COIP-COFJ-2026-016",
+    "materia": "Derecho Penal",
+    "subtema": "Sentencia Absolutoria",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una sentencia absolutoria en materia contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La orden de internamiento carcelario preventivo para garantizar el cobro de daños pecuniarios a la víctima."
+      },
+      {
+        "id": "B",
+        "texto": "El fallo que declara culpable al contraventor e impone trabajo comunitario obligatorio por treinta días."
+      },
+      {
+        "id": "C",
+        "texto": "Un acuerdo transaccional privado firmado ante un centro de mediación sin homologación judicial."
+      },
+      {
+        "id": "D",
+        "texto": "Es una resolución judicial. Consiste en declarar que no se ha probado la responsabilidad de la persona procesada respecto de la contravención imputada."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una resolución judicial. Consiste en declarar que no se ha probado la responsabilidad de la persona procesada respecto de la contravención imputada.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 643, 623 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 643, 623 COIP",
+      "textoSoporte": "Es una resolución judicial. Consiste en declarar que no se ha probado la responsabilidad de la persona procesada respecto de la contravención imputada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-17",
+    "codigoOficial": "JR-COIP-COFJ-2026-017",
+    "materia": "Derecho Penal",
+    "subtema": "Recursos Contravencionales",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué recurso procede contra las decisiones judiciales en materia contravencional cuando la ley lo permite?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El recurso de apelación."
+      },
+      {
+        "id": "B",
+        "texto": "El recurso extraordinario de casación ante la Sala Penal de la Corte Nacional."
+      },
+      {
+        "id": "C",
+        "texto": "El recurso de revisión en única instancia ante el Tribunal Contencioso Administrativo."
+      },
+      {
+        "id": "D",
+        "texto": "La acción extraordinaria de protección previa obligatoria ante el Consejo de la Judicatura."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"El recurso de apelación.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 644, 653 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 644, 653 COIP",
+      "textoSoporte": "El recurso de apelación.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-18",
+    "codigoOficial": "JR-COIP-COFJ-2026-018",
+    "materia": "Derecho Penal",
+    "subtema": "Derecho a Recurrir (Doble Conforme)",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué garantiza el derecho a recurrir en materia contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La potestad del juzgador de primera instancia de anular su propia sentencia sin petición de parte."
+      },
+      {
+        "id": "B",
+        "texto": "La posibilidad de impugnar una decisión judicial ante una autoridad superior en los casos previstos por la ley."
+      },
+      {
+        "id": "C",
+        "texto": "La facultad de acudir directamente a tribunales internacionales sin agotar la jurisdicción nacional."
+      },
+      {
+        "id": "D",
+        "texto": "El deber de la persona procesada de cumplir inmediatamente la sanción sin posibilidad de impugnación."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"La posibilidad de impugnar una decisión judicial ante una autoridad superior en los casos previstos por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 lit. m CRE, Art. 652 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 7 lit. m CRE, Art. 652 COIP",
+      "textoSoporte": "La posibilidad de impugnar una decisión judicial ante una autoridad superior en los casos previstos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-19",
+    "codigoOficial": "JR-COIP-COFJ-2026-019",
+    "materia": "Derecho Penal",
+    "subtema": "Cosa Juzgada",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la cosa juzgada en el ámbito de las resoluciones contravencionales?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La facultad del fiscal de reabrir investigaciones ilimitadamente siempre que aparezcan nuevos indicios."
+      },
+      {
+        "id": "B",
+        "texto": "La provisionalidad de los fallos contravencionales que pueden modificarse en cualquier tiempo por el juez."
+      },
+      {
+        "id": "C",
+        "texto": "Es un efecto jurídico de las resoluciones firmes. Consiste en impedir que un asunto resuelto mediante decisión ejecutoriada vuelva a ser juzgado, salvo excepciones legales."
+      },
+      {
+        "id": "D",
+        "texto": "La suspensión temporal del plazo procesal mientras la Corte Provincial emite informes consultivos."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un efecto jurídico de las resoluciones firmes. Consiste en impedir que un asunto resuelto mediante decisión ejecutoriada vuelva a ser juzgado, salvo excepciones legales.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 lit. i CRE, Art. 5 num. 9 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 7 lit. i CRE, Art. 5 num. 9 COIP",
+      "textoSoporte": "Es un efecto jurídico de las resoluciones firmes. Consiste en impedir que un asunto resuelto mediante decisión ejecutoriada vuelva a ser juzgado, salvo excepciones legales.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-20",
+    "codigoOficial": "JR-COIP-COFJ-2026-020",
+    "materia": "Derecho Penal",
+    "subtema": "Principio Non Bis In Idem",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio non bis in idem en el régimen sancionatorio de contravenciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La regla procesal que obliga a juzgar primero en la vía administrativa y luego reiterar la pena en sede penal."
+      },
+      {
+        "id": "B",
+        "texto": "El derecho de la víctima a demandar dos veces en juzgados distintos para obtener doble reparación integral."
+      },
+      {
+        "id": "C",
+        "texto": "La obligación de imponer simultáneamente dos penas privativas de libertad acumulables sin límite legal."
+      },
+      {
+        "id": "D",
+        "texto": "Es una garantía constitucional. Consiste en que ninguna persona puede ser juzgada ni sancionada dos veces por los mismos hechos y fundamentos."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía constitucional. Consiste en que ninguna persona puede ser juzgada ni sancionada dos veces por los mismos hechos y fundamentos.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 lit. i CRE, Art. 5 num. 9 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 7 lit. i CRE, Art. 5 num. 9 COIP",
+      "textoSoporte": "Es una garantía constitucional. Consiste en que ninguna persona puede ser juzgada ni sancionada dos veces por los mismos hechos y fundamentos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-21",
+    "codigoOficial": "JR-COIP-COFJ-2026-021",
+    "materia": "Derecho Penal",
+    "subtema": "Contravenciones contra las Personas",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una contravención contra las personas?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una contravención penal. Consiste en una conducta de menor gravedad que afecta la integridad, seguridad o bienestar de una persona y que se encuentra expresamente tipificada por la ley."
+      },
+      {
+        "id": "B",
+        "texto": "Un delito grave de genocidio o lesa humanidad sancionado con pena de treinta años de privación de libertad."
+      },
+      {
+        "id": "C",
+        "texto": "Una infracción tributaria sancionada administrativamente por el Servicio de Rentas Internas."
+      },
+      {
+        "id": "D",
+        "texto": "Una discrepancia contractual mercantil derivada del incumplimiento de pago de una letra de cambio."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una contravención penal. Consiste en una conducta de menor gravedad que afecta la integridad, seguridad o bienestar de una persona y que se encuentra expresamente tipificada por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 393-397 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 393-397 COIP",
+      "textoSoporte": "Es una contravención penal. Consiste en una conducta de menor gravedad que afecta la integridad, seguridad o bienestar de una persona y que se encuentra expresamente tipificada por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-22",
+    "codigoOficial": "JR-COIP-COFJ-2026-022",
+    "materia": "Derecho Penal",
+    "subtema": "Contravenciones contra la Propiedad",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una contravención contra la propiedad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Un asalto con resultado de muerte tipificado como delito agravado contra la inviolabilidad de la vida."
+      },
+      {
+        "id": "B",
+        "texto": "Es una contravención penal. Consiste en una conducta de menor gravedad que afecta bienes o derechos patrimoniales protegidos por la ley."
+      },
+      {
+        "id": "C",
+        "texto": "Un juicio de prescripción extraordinaria adquisitiva de dominio tramitado en la vía ordinaria civil."
+      },
+      {
+        "id": "D",
+        "texto": "Una expropiación forzosa de terrenos urbanos ejecutada por un Gobierno Autónomo Descentralizado."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una contravención penal. Consiste en una conducta de menor gravedad que afecta bienes o derechos patrimoniales protegidos por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 393, 396 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 393, 396 COIP",
+      "textoSoporte": "Es una contravención penal. Consiste en una conducta de menor gravedad que afecta bienes o derechos patrimoniales protegidos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-23",
+    "codigoOficial": "JR-COIP-COFJ-2026-023",
+    "materia": "Derecho Penal",
+    "subtema": "Criterio de Diferenciación Punitiva",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el criterio principal para diferenciar una contravención de un delito?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La voluntad discrecional del policía aprehensor al momento de redactar su parte de detención."
+      },
+      {
+        "id": "B",
+        "texto": "El monto de los ingresos económicos mensuales que perciba la persona investigada o denunciante."
+      },
+      {
+        "id": "C",
+        "texto": "La clasificación establecida por la ley y el nivel de gravedad jurídica de la conducta sancionada."
+      },
+      {
+        "id": "D",
+        "texto": "La edad que tenga el juzgador que asuma el conocimiento inicial de la causa en el distrito judicial."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"La clasificación establecida por la ley y el nivel de gravedad jurídica de la conducta sancionada.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 19 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 19 COIP",
+      "textoSoporte": "La clasificación establecida por la ley y el nivel de gravedad jurídica de la conducta sancionada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-24",
+    "codigoOficial": "JR-COIP-COFJ-2026-024",
+    "materia": "Derecho Penal",
+    "subtema": "Sanción Contravencional",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una sanción contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Una multa administrativa no penal cobrada coercitivamente sin juzgamiento judicial alguno."
+      },
+      {
+        "id": "B",
+        "texto": "Una medida disciplinaria laboral adoptada por el empleador frente al abandono intempestivo del trabajo."
+      },
+      {
+        "id": "C",
+        "texto": "Una condena accesoria indeterminada sin límite temporal impuesta a discreción de la fiscalía."
+      },
+      {
+        "id": "D",
+        "texto": "Es una consecuencia jurídica penal. Consiste en la pena o medida prevista por la ley para quien ha sido declarado responsable de una contravención."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una consecuencia jurídica penal. Consiste en la pena o medida prevista por la ley para quien ha sido declarado responsable de una contravención.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 60-63 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 60-63 COIP",
+      "textoSoporte": "Es una consecuencia jurídica penal. Consiste en la pena o medida prevista por la ley para quien ha sido declarado responsable de una contravención.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-25",
+    "codigoOficial": "JR-COIP-COFJ-2026-025",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Proporcionalidad",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la proporcionalidad de la sanción?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un principio jurídico. Consiste en la correspondencia que debe existir entre la gravedad de la conducta infractora y la sanción impuesta."
+      },
+      {
+        "id": "B",
+        "texto": "La aplicación de la pena máxima legalmente contemplada para delitos mayores a cualquier contravención menor."
+      },
+      {
+        "id": "C",
+        "texto": "La facultad de triplicar las penas privativas de libertad atendiendo al clamor público de redes sociales."
+      },
+      {
+        "id": "D",
+        "texto": "La regla según la cual toda infracción debe sancionarse únicamente con disculpas públicas sin pena material."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio jurídico. Consiste en la correspondencia que debe existir entre la gravedad de la conducta infractora y la sanción impuesta.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 6 CRE, Art. 5 num. 15 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 6 CRE, Art. 5 num. 15 COIP",
+      "textoSoporte": "Es un principio jurídico. Consiste en la correspondencia que debe existir entre la gravedad de la conducta infractora y la sanción impuesta.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-26",
+    "codigoOficial": "JR-COIP-COFJ-2026-026",
+    "materia": "Derecho Penal",
+    "subtema": "Función de la Motivación",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la función de la motivación en una sentencia contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Resumir exclusivamente el alegato inicial del denunciante omitiendo toda argumentación probatoria y normativa."
+      },
+      {
+        "id": "B",
+        "texto": "Explicar los hechos probados, la valoración de la prueba, las normas aplicadas y las razones que justifican la decisión judicial."
+      },
+      {
+        "id": "C",
+        "texto": "Ocultar el criterio interpretativo del tribunal para evitar la interposición de recursos de apelación procesales."
+      },
+      {
+        "id": "D",
+        "texto": "Constituir una mera formalidad optativa cuya omisión no genera la nulidad ni invalidez del fallo dictado."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Explicar los hechos probados, la valoración de la prueba, las normas aplicadas y las razones que justifican la decisión judicial.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 lit. l CRE, Art. 622 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 7 lit. l CRE, Art. 622 COIP",
+      "textoSoporte": "Explicar los hechos probados, la valoración de la prueba, las normas aplicadas y las razones que justifican la decisión judicial.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-27",
+    "codigoOficial": "JR-COIP-COFJ-2026-027",
+    "materia": "Derecho Penal",
+    "subtema": "Deber Judicial en la Valoración Probatoria",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el deber del juzgador respecto de la valoración de la prueba?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Valorar únicamente los elementos que sustenten la acusación, desechando de oficio la prueba de descargo."
+      },
+      {
+        "id": "B",
+        "texto": "Fundamentar la convicción exclusivamente en la intuición personal del magistrado sin motivación explícita."
+      },
+      {
+        "id": "C",
+        "texto": "Valorar toda la prueba de manera objetiva, lógica, integral y motivada conforme a la Constitución y la ley."
+      },
+      {
+        "id": "D",
+        "texto": "Delegar la valoración final de los testimonios y peritajes en el personal administrativo de secretaría."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Valorar toda la prueba de manera objetiva, lógica, integral y motivada conforme a la Constitución y la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 457 COIP, Art. 130 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 457 COIP, Art. 130 COFJ",
+      "textoSoporte": "Valorar toda la prueba de manera objetiva, lógica, integral y motivada conforme a la Constitución y la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-28",
+    "codigoOficial": "JR-COIP-COFJ-2026-028",
+    "materia": "Derecho Penal",
+    "subtema": "Oralidad Procesal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la oralidad en el procedimiento contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La obligatoriedad de sustanciar todo el trámite únicamente mediante memoriales escritos sin audiencias."
+      },
+      {
+        "id": "B",
+        "texto": "El uso facultativo de la palabra reservado con exclusividad al fiscal de turno sin intervención del procesado."
+      },
+      {
+        "id": "C",
+        "texto": "La lectura silenciosa de actas notariales sin debate público ni exposición de alegatos contradictorios."
+      },
+      {
+        "id": "D",
+        "texto": "Es un principio procesal. Consiste en que las principales actuaciones del procedimiento se desarrollen verbalmente ante la autoridad judicial competente."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio procesal. Consiste en que las principales actuaciones del procedimiento se desarrollen verbalmente ante la autoridad judicial competente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 168 num. 6 CRE, Art. 560 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 168 num. 6 CRE, Art. 560 COIP",
+      "textoSoporte": "Es un principio procesal. Consiste en que las principales actuaciones del procedimiento se desarrollen verbalmente ante la autoridad judicial competente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-29",
+    "codigoOficial": "JR-COIP-COFJ-2026-029",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Inmediación",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la inmediación?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un principio procesal. Consiste en que la jueza o el juez mantenga contacto directo con las partes, los medios de prueba y el desarrollo de la audiencia."
+      },
+      {
+        "id": "B",
+        "texto": "La delegación total de la toma de testimonios en el actuario del despacho judicial fuera de la sala."
+      },
+      {
+        "id": "C",
+        "texto": "La resolución del proceso penal basada únicamente en copias simples enviadas por correspondencia postal."
+      },
+      {
+        "id": "D",
+        "texto": "El distanciamiento obligatorio del juzgador respecto de la práctica presencial de las pruebas practicadas."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio procesal. Consiste en que la jueza o el juez mantenga contacto directo con las partes, los medios de prueba y el desarrollo de la audiencia.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 5 num. 17 COIP, Art. 19 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 5 num. 17 COIP, Art. 19 COFJ",
+      "textoSoporte": "Es un principio procesal. Consiste en que la jueza o el juez mantenga contacto directo con las partes, los medios de prueba y el desarrollo de la audiencia.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-30",
+    "codigoOficial": "JR-COIP-COFJ-2026-030",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Contradicción",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la contradicción?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La prohibición legal de interrogar a los testigos presentados por la parte contraria en la audiencia."
+      },
+      {
+        "id": "B",
+        "texto": "Es un principio procesal. Consiste en el derecho de las partes a conocer, debatir, objetar y controvertir las pruebas y argumentos presentados durante el procedimiento."
+      },
+      {
+        "id": "C",
+        "texto": "La facultad de imponer resoluciones condenatorias secretas sin traslado previo a la persona procesada."
+      },
+      {
+        "id": "D",
+        "texto": "El deber de las partes de aceptar indefectiblemente las afirmaciones vertidas en el parte policial."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio procesal. Consiste en el derecho de las partes a conocer, debatir, objetar y controvertir las pruebas y argumentos presentados durante el procedimiento.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 168 num. 6 CRE, Art. 5 num. 13 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 168 num. 6 CRE, Art. 5 num. 13 COIP",
+      "textoSoporte": "Es un principio procesal. Consiste en el derecho de las partes a conocer, debatir, objetar y controvertir las pruebas y argumentos presentados durante el procedimiento.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-31",
+    "codigoOficial": "JR-COIP-COFJ-2026-031",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Publicidad",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la publicidad en el procedimiento contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La difusión obligatoria e indiscriminada en cadenas de televisión de las audiencias que involucran menores."
+      },
+      {
+        "id": "B",
+        "texto": "El carácter secreto e inaccesible de todas las audiencias judiciales por mandato de la fiscalía provincial."
+      },
+      {
+        "id": "C",
+        "texto": "Es un principio procesal. Consiste en que las audiencias y actuaciones judiciales sean públicas, salvo las excepciones previstas por la Constitución y la ley."
+      },
+      {
+        "id": "D",
+        "texto": "La reserva absoluta de los expedientes judiciales impidiendo incluso a las partes consultar sus autos."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio procesal. Consiste en que las audiencias y actuaciones judiciales sean públicas, salvo las excepciones previstas por la Constitución y la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 168 num. 5 CRE, Art. 562 COIP, Art. 13 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 168 num. 5 CRE, Art. 562 COIP, Art. 13 COFJ",
+      "textoSoporte": "Es un principio procesal. Consiste en que las audiencias y actuaciones judiciales sean públicas, salvo las excepciones previstas por la Constitución y la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-32",
+    "codigoOficial": "JR-COIP-COFJ-2026-032",
+    "materia": "Derecho Penal",
+    "subtema": "Debido Proceso",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el debido proceso en materia contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Un conjunto de prerrogativas extraordinarias reservadas exclusivamente para la acusación pública estatal."
+      },
+      {
+        "id": "B",
+        "texto": "Un trámite sumario que autoriza la condena automática del imputado sin necesidad de escuchar sus alegatos."
+      },
+      {
+        "id": "C",
+        "texto": "Una directriz técnica aplicable exclusivamente a litigios tributarios y arbitrajes mercantiles internacionales."
+      },
+      {
+        "id": "D",
+        "texto": "Es una garantía constitucional. Consiste en el conjunto de derechos y garantías que aseguran un juzgamiento justo, imparcial y respetuoso de los derechos de las partes."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía constitucional. Consiste en el conjunto de derechos y garantías que aseguran un juzgamiento justo, imparcial y respetuoso de los derechos de las partes.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 CRE",
+      "textoSoporte": "Es una garantía constitucional. Consiste en el conjunto de derechos y garantías que aseguran un juzgamiento justo, imparcial y respetuoso de los derechos de las partes.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-33",
+    "codigoOficial": "JR-COIP-COFJ-2026-033",
+    "materia": "Derecho Penal",
+    "subtema": "Derecho a la Defensa",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué garantiza el derecho a la defensa en el juzgamiento de contravenciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La posibilidad de intervenir en el procedimiento, ser escuchado, presentar pruebas, controvertirlas y contar con asistencia jurídica."
+      },
+      {
+        "id": "B",
+        "texto": "La obligación de la persona procesada de responder obligatoriamente a interrogatorios autoincriminatorios."
+      },
+      {
+        "id": "C",
+        "texto": "La potestad del juez de resolver la causa prescindiendo de la presencia o notificación de la defensa técnica."
+      },
+      {
+        "id": "D",
+        "texto": "El deber de la víctima de renunciar a toda asistencia letrada durante el desarrollo de la audiencia de juicio."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"La posibilidad de intervenir en el procedimiento, ser escuchado, presentar pruebas, controvertirlas y contar con asistencia jurídica.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 7 CRE",
+      "textoSoporte": "La posibilidad de intervenir en el procedimiento, ser escuchado, presentar pruebas, controvertirlas y contar con asistencia jurídica.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-34",
+    "codigoOficial": "JR-COIP-COFJ-2026-034",
+    "materia": "Derecho Penal",
+    "subtema": "Igualdad Procesal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio de igualdad procesal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La concesión de mayores privilegios temporales y probatorios a la institución policial en detrimento del procesado."
+      },
+      {
+        "id": "B",
+        "texto": "Es una garantía procesal. Consiste en otorgar a las partes las mismas oportunidades para ejercer sus derechos dentro del procedimiento."
+      },
+      {
+        "id": "C",
+        "texto": "La obligación de fallar siempre en contra de la persona que posea mayor patrimonio económico en el juicio."
+      },
+      {
+        "id": "D",
+        "texto": "La exigencia de que ambas partes formulen idénticas pretensiones jurídicas ante el juzgador de la causa."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía procesal. Consiste en otorgar a las partes las mismas oportunidades para ejercer sus derechos dentro del procedimiento.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 lit. c CRE, Art. 5 num. 7 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 7 lit. c CRE, Art. 5 num. 7 COIP",
+      "textoSoporte": "Es una garantía procesal. Consiste en otorgar a las partes las mismas oportunidades para ejercer sus derechos dentro del procedimiento.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-35",
+    "codigoOficial": "JR-COIP-COFJ-2026-035",
+    "materia": "Derecho Penal",
+    "subtema": "Competencia Judicial (COFJ)",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la competencia judicial?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La potestad discrecional de cualquier funcionario administrativo para encarcelar infractores sin ley previa."
+      },
+      {
+        "id": "B",
+        "texto": "La capacidad de los litigantes para elegir a su propio arbitrio el juzgado que dicte sentencia favorable."
+      },
+      {
+        "id": "C",
+        "texto": "Es una atribución legal de la función jurisdiccional. Consiste en la facultad otorgada por la ley a una jueza o juez para conocer y resolver determinados asuntos."
+      },
+      {
+        "id": "D",
+        "texto": "El poder ilimitado del Presidente de la República para asumir el juzgamiento de causas contravencionales."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una atribución legal de la función jurisdiccional. Consiste en la facultad otorgada por la ley a una jueza o juez para conocer y resolver determinados asuntos.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 156 COFJ, Art. 404 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 156 COFJ, Art. 404 COIP",
+      "textoSoporte": "Es una atribución legal de la función jurisdiccional. Consiste en la facultad otorgada por la ley a una jueza o juez para conocer y resolver determinados asuntos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-36",
+    "codigoOficial": "JR-COIP-COFJ-2026-036",
+    "materia": "Derecho Penal",
+    "subtema": "Principio del Juez Natural y Competente",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué garantiza el principio del juez competente?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La creación de tribunales ad-hoc o comisiones especiales después de acontecidos los hechos investigados."
+      },
+      {
+        "id": "B",
+        "texto": "La potestad de la policía comunitaria para dictar penas privativas de libertad de forma inmediata y sumaria."
+      },
+      {
+        "id": "C",
+        "texto": "La facultad de radicar la causa penal en cualquier juzgado del país según la conveniencia del acusador."
+      },
+      {
+        "id": "D",
+        "texto": "Que ninguna persona sea juzgada por una autoridad distinta de aquella previamente determinada por la Constitución y la ley."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Que ninguna persona sea juzgada por una autoridad distinta de aquella previamente determinada por la Constitución y la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 lit. k CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 7 lit. k CRE",
+      "textoSoporte": "Que ninguna persona sea juzgada por una autoridad distinta de aquella previamente determinada por la Constitución y la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-37",
+    "codigoOficial": "JR-COIP-COFJ-2026-037",
+    "materia": "Derecho Penal",
+    "subtema": "Infracción Flagrante",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una infracción flagrante?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una situación jurídica de flagrancia. Consiste en sorprender a una persona cometiendo una infracción o inmediatamente después de haberla cometido, conforme a los requisitos establecidos por la ley."
+      },
+      {
+        "id": "B",
+        "texto": "Una infracción prescrita hace más de cinco años que carece de todo elemento material y vestigio probatorio."
+      },
+      {
+        "id": "C",
+        "texto": "Una presunción de sospecha derivada de denuncias anónimas publicadas en medios digitales sin constatación."
+      },
+      {
+        "id": "D",
+        "texto": "El relato de hechos no presenciados ocurrido varios meses antes sin persecución ininterrumpida alguna."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una situación jurídica de flagrancia. Consiste en sorprender a una persona cometiendo una infracción o inmediatamente después de haberla cometido, conforme a los requisitos establecidos por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 527 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 527 COIP",
+      "textoSoporte": "Es una situación jurídica de flagrancia. Consiste en sorprender a una persona cometiendo una infracción o inmediatamente después de haberla cometido, conforme a los requisitos establecidos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-38",
+    "codigoOficial": "JR-COIP-COFJ-2026-038",
+    "materia": "Derecho Penal",
+    "subtema": "Aprehensión y Actuación en Flagrancia",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué facultad tiene la autoridad frente a una contravención flagrante?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Imponer de forma verbal e inmediata la pena de prisión sin llevar al sospechoso ante el juez de garantías."
+      },
+      {
+        "id": "B",
+        "texto": "Proceder a la aprehensión de la persona presuntamente infractora y adoptar las actuaciones permitidas por la ley para el inicio del procedimiento correspondiente."
+      },
+      {
+        "id": "C",
+        "texto": "Aplicar sanciones corporales o castigos físicos directos previstos en reglamentos disciplinarios policiales."
+      },
+      {
+        "id": "D",
+        "texto": "Exigir el pago de una fianza en efectivo en el lugar de la detención para permitir la libertad del sujeto."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Proceder a la aprehensión de la persona presuntamente infractora y adoptar las actuaciones permitidas por la ley para el inicio del procedimiento correspondiente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 526, 527 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 526, 527 COIP",
+      "textoSoporte": "Proceder a la aprehensión de la persona presuntamente infractora y adoptar las actuaciones permitidas por la ley para el inicio del procedimiento correspondiente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-39",
+    "codigoOficial": "JR-COIP-COFJ-2026-039",
+    "materia": "Derecho Penal",
+    "subtema": "Propósito de la Audiencia Contravencional",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el propósito de la audiencia de juzgamiento en contravenciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Diferir indefinidamente el juzgamiento hasta que la causa prescriba por vencimiento de plazos legales."
+      },
+      {
+        "id": "B",
+        "texto": "Emitir órdenes de allanamiento reservadas sin permitir la comparecencia de la persona investigada."
+      },
+      {
+        "id": "C",
+        "texto": "Practicar la prueba, escuchar a las partes y resolver la situación jurídica de la persona procesada."
+      },
+      {
+        "id": "D",
+        "texto": "Determinar únicamente la sanción tributaria pecuniaria en beneficio de las arcas fiscales municipales."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Practicar la prueba, escuchar a las partes y resolver la situación jurídica de la persona procesada.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 642, 643 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 642, 643 COIP",
+      "textoSoporte": "Practicar la prueba, escuchar a las partes y resolver la situación jurídica de la persona procesada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-40",
+    "codigoOficial": "JR-COIP-COFJ-2026-040",
+    "materia": "Derecho Penal",
+    "subtema": "Prueba Ilícita e Ilegal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una prueba obtenida ilegalmente?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Aquella que ha sido rendida voluntariamente ante el juez con asistencia de abogado defensor de confianza."
+      },
+      {
+        "id": "B",
+        "texto": "Cualquier documento legalizado ante notario público cumpliendo las formalidades del ordenamiento."
+      },
+      {
+        "id": "C",
+        "texto": "El testimonio rendido bajo juramento en la sala de audiencias con respeto irrestricto a la contradicción."
+      },
+      {
+        "id": "D",
+        "texto": "Es una prueba ilícita. Consiste en aquella obtenida con vulneración de derechos constitucionales o de las disposiciones legales aplicables."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una prueba ilícita. Consiste en aquella obtenida con vulneración de derechos constitucionales o de las disposiciones legales aplicables.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 4 CRE, Art. 454 num. 6 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 4 CRE, Art. 454 num. 6 COIP",
+      "textoSoporte": "Es una prueba ilícita. Consiste en aquella obtenida con vulneración de derechos constitucionales o de las disposiciones legales aplicables.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-41",
+    "codigoOficial": "JR-COIP-COFJ-2026-041",
+    "materia": "Derecho Penal",
+    "subtema": "Eficacia de la Prueba Ilícita",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el efecto de la prueba ilícita?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Carece de validez y eficacia probatoria y no puede ser utilizada para fundamentar una decisión judicial."
+      },
+      {
+        "id": "B",
+        "texto": "Constituye prueba plena incontrovertible que obliga al juzgador a dictar sentencia condenatoria inmediata."
+      },
+      {
+        "id": "C",
+        "texto": "Se convalida automáticamente si el agente fiscal declara bajo juramento que fue obtenida de buena fe."
+      },
+      {
+        "id": "D",
+        "texto": "Mantiene plena validez probatoria salvo que el procesado pague una tasa judicial especial de impugnación."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Carece de validez y eficacia probatoria y no puede ser utilizada para fundamentar una decisión judicial.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 4 CRE, Art. 454 num. 6 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 76 num. 4 CRE, Art. 454 num. 6 COIP",
+      "textoSoporte": "Carece de validez y eficacia probatoria y no puede ser utilizada para fundamentar una decisión judicial.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-42",
+    "codigoOficial": "JR-COIP-COFJ-2026-042",
+    "materia": "Derecho Penal",
+    "subtema": "Sistema de Sana Crítica",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la sana crítica?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Un método de tarifa legal rígida donde el testimonio policial vale el doble que la pericia científica."
+      },
+      {
+        "id": "B",
+        "texto": "Es un sistema de valoración probatoria. Consiste en analizar la prueba mediante reglas de lógica, experiencia y conocimiento racional para formar convicción sobre los hechos."
+      },
+      {
+        "id": "C",
+        "texto": "La libre convicción subjetiva donde el juzgador prescinde de toda explicación racional y objetiva."
+      },
+      {
+        "id": "D",
+        "texto": "La valoración arbitraria de indicios basada en corazonadas o prejuicios morales del juzgador."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es un sistema de valoración probatoria. Consiste en analizar la prueba mediante reglas de lógica, experiencia y conocimiento racional para formar convicción sobre los hechos.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 457 COIP, Art. 115 COGEP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 457 COIP, Art. 115 COGEP",
+      "textoSoporte": "Es un sistema de valoración probatoria. Consiste en analizar la prueba mediante reglas de lógica, experiencia y conocimiento racional para formar convicción sobre los hechos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-43",
+    "codigoOficial": "JR-COIP-COFJ-2026-043",
+    "materia": "Derecho Penal",
+    "subtema": "Requisitos de Validez de la Sentencia",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué debe contener una sentencia válida?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Únicamente la parte dispositiva resolutiva sin explicar antecedentes fácticos ni preceptos legales."
+      },
+      {
+        "id": "B",
+        "texto": "La firma del fiscal y de la policía sin necesidad de firma ni intervención de la autoridad judicial."
+      },
+      {
+        "id": "C",
+        "texto": "La determinación de los hechos, la valoración de la prueba, la fundamentación jurídica y la decisión debidamente motivada."
+      },
+      {
+        "id": "D",
+        "texto": "El reenvío obligatorio de la causa para que el Consejo de la Judicatura elabore los considerandos jurídicos."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"La determinación de los hechos, la valoración de la prueba, la fundamentación jurídica y la decisión debidamente motivada.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 622 COIP, Art. 130 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 622 COIP, Art. 130 COFJ",
+      "textoSoporte": "La determinación de los hechos, la valoración de la prueba, la fundamentación jurídica y la decisión debidamente motivada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-44",
+    "codigoOficial": "JR-COIP-COFJ-2026-044",
+    "materia": "Derecho Penal",
+    "subtema": "Seguridad Jurídica Procesal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la seguridad jurídica dentro del procedimiento?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La aplicación retroactiva perjudicial de nuevas leyes penales más rigurosas a hechos ya ocurridos."
+      },
+      {
+        "id": "B",
+        "texto": "El cambio imprevisto de los criterios del juzgador durante el juicio sin motivación jurídica alguna."
+      },
+      {
+        "id": "C",
+        "texto": "La potestad del tribunal de inventar procedimientos procesales inexistentes en la ley ecuatoriana."
+      },
+      {
+        "id": "D",
+        "texto": "Es una garantía constitucional. Consiste en el respeto a normas jurídicas previas, claras, públicas y aplicadas por autoridad competente."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía constitucional. Consiste en el respeto a normas jurídicas previas, claras, públicas y aplicadas por autoridad competente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 82 CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 82 CRE",
+      "textoSoporte": "Es una garantía constitucional. Consiste en el respeto a normas jurídicas previas, claras, públicas y aplicadas por autoridad competente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-45",
+    "codigoOficial": "JR-COIP-COFJ-2026-045",
+    "materia": "Derecho Penal",
+    "subtema": "Fines de la Administración de Justicia",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de la administración de justicia en materia contravencional?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Resolver conflictos e infracciones respetando el debido proceso, garantizando los derechos de las partes y aplicando correctamente la ley."
+      },
+      {
+        "id": "B",
+        "texto": "Recaudar fondos económicos masivos mediante multas arbitrarias para financiar la gestión judicial."
+      },
+      {
+        "id": "C",
+        "texto": "Perseguir políticamente a ciudadanos infractores privándolos sumariamente de sus derechos cívicos."
+      },
+      {
+        "id": "D",
+        "texto": "Suplantar las funciones legislativas mediante la expedición de tipos penales creados en audiencias."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Resolver conflictos e infracciones respetando el debido proceso, garantizando los derechos de las partes y aplicando correctamente la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 167 CRE, Art. 1 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 167 CRE, Art. 1 COFJ",
+      "textoSoporte": "Resolver conflictos e infracciones respetando el debido proceso, garantizando los derechos de las partes y aplicando correctamente la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-46",
+    "codigoOficial": "JR-COIP-COFJ-2026-046",
+    "materia": "Derecho Penal",
+    "subtema": "Actos y Resoluciones Judiciales (COFJ)",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una resolución judicial?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Una opinión académica informal publicada en revistas de doctrina sin fuerza vinculante."
+      },
+      {
+        "id": "B",
+        "texto": "Es un acto jurisdiccional emitido por una autoridad competente. Consiste en una decisión adoptada dentro de un proceso con efectos jurídicos para las partes."
+      },
+      {
+        "id": "C",
+        "texto": "Una circular administrativa interna emitida por el departamento de talento humano del juzgado."
+      },
+      {
+        "id": "D",
+        "texto": "Un comunicado de prensa emitido por el Ministerio de Gobierno sobre el estado de la seguridad ciudadana."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es un acto jurisdiccional emitido por una autoridad competente. Consiste en una decisión adoptada dentro de un proceso con efectos jurídicos para las partes.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 122 COFJ, Art. 619 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 122 COFJ, Art. 619 COIP",
+      "textoSoporte": "Es un acto jurisdiccional emitido por una autoridad competente. Consiste en una decisión adoptada dentro de un proceso con efectos jurídicos para las partes.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-47",
+    "codigoOficial": "JR-COIP-COFJ-2026-047",
+    "materia": "Derecho Penal",
+    "subtema": "Distinción entre Auto y Sentencia (COFJ)",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la diferencia entre auto y sentencia?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El auto pone fin de manera definitiva a todo el proceso penal, mientras que la sentencia solo convoca a audiencia."
+      },
+      {
+        "id": "B",
+        "texto": "La sentencia es dictada por el secretario y el auto únicamente por los ministros de la Corte Nacional."
+      },
+      {
+        "id": "C",
+        "texto": "El auto resuelve aspectos procesales o incidentales del procedimiento, mientras que la sentencia resuelve el fondo del asunto y determina la responsabilidad o no responsabilidad de la persona procesada."
+      },
+      {
+        "id": "D",
+        "texto": "No existe distinción alguna; ambos términos son equivalentes y producen cosa juzgada material idéntica."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"El auto resuelve aspectos procesales o incidentales del procedimiento, mientras que la sentencia resuelve el fondo del asunto y determina la responsabilidad o no responsabilidad de la persona procesada.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 122 COFJ, Art. 88 COGEP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 122 COFJ, Art. 88 COGEP",
+      "textoSoporte": "El auto resuelve aspectos procesales o incidentales del procedimiento, mientras que la sentencia resuelve el fondo del asunto y determina la responsabilidad o no responsabilidad de la persona procesada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-48",
+    "codigoOficial": "JR-COIP-COFJ-2026-048",
+    "materia": "Derecho Penal",
+    "subtema": "Ejecutoria de Resoluciones Judiciales",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la ejecutoria?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El momento procesal en que la persona procesada rinde su versión inicial ante el fiscal de turno."
+      },
+      {
+        "id": "B",
+        "texto": "La fase previa donde el juez de contravenciones califica la legalidad de la aprehensión policial."
+      },
+      {
+        "id": "C",
+        "texto": "La presentación oportuna del recurso extraordinario de protección ante la Corte Constitucional."
+      },
+      {
+        "id": "D",
+        "texto": "Es el estado jurídico que adquiere una resolución judicial cuando ya no admite recursos ordinarios o cuando estos han sido resueltos de manera definitiva."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es el estado jurídico que adquiere una resolución judicial cuando ya no admite recursos ordinarios o cuando estos han sido resueltos de manera definitiva.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 628 COIP, Art. 123 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 628 COIP, Art. 123 COFJ",
+      "textoSoporte": "Es el estado jurídico que adquiere una resolución judicial cuando ya no admite recursos ordinarios o cuando estos han sido resueltos de manera definitiva.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-49",
+    "codigoOficial": "JR-COIP-COFJ-2026-049",
+    "materia": "Derecho Penal",
+    "subtema": "Efectos de la Sentencia Ejecutoriada",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué efecto produce una sentencia ejecutoriada?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Produce autoridad de cosa juzgada y permite su ejecución conforme a la ley."
+      },
+      {
+        "id": "B",
+        "texto": "Permite volver a juzgar a la persona por los mismos hechos si la víctima no quedó satisfecha."
+      },
+      {
+        "id": "C",
+        "texto": "Suspende de forma permanente la potestad jurisdiccional del Estado para vigilar su cumplimiento."
+      },
+      {
+        "id": "D",
+        "texto": "Convierte el fallo en una simple recomendación no obligatoria sujeta a la voluntad del contraventor."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Produce autoridad de cosa juzgada y permite su ejecución conforme a la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 628 COIP, Art. 76 num. 7 lit. i CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 628 COIP, Art. 76 num. 7 lit. i CRE",
+      "textoSoporte": "Produce autoridad de cosa juzgada y permite su ejecución conforme a la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-50",
+    "codigoOficial": "JR-COIP-COFJ-2026-050",
+    "materia": "Derecho Penal",
+    "subtema": "Jurisdicción (COFJ)",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la jurisdicción?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La demarcación territorial municipal destinada exclusivamente al cobro de impuestos prediales."
+      },
+      {
+        "id": "B",
+        "texto": "Es una potestad pública del Estado. Consiste en la facultad de administrar justicia mediante la resolución de conflictos y la aplicación del ordenamiento jurídico."
+      },
+      {
+        "id": "C",
+        "texto": "El poder otorgado a los oficiales de policía para redactar informes de investigación delictiva."
+      },
+      {
+        "id": "D",
+        "texto": "La facultad de los colegios de abogados para sancionar con destitución a los jueces provinciales."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una potestad pública del Estado. Consiste en la facultad de administrar justicia mediante la resolución de conflictos y la aplicación del ordenamiento jurídico.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 150 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 150 COFJ",
+      "textoSoporte": "Es una potestad pública del Estado. Consiste en la facultad de administrar justicia mediante la resolución de conflictos y la aplicación del ordenamiento jurídico.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-51",
+    "codigoOficial": "JR-COIP-COFJ-2026-051",
+    "materia": "Derecho Penal",
+    "subtema": "Competencia (COFJ)",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la competencia?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La rivalidad económica y comercial existente entre despachos judiciales de una misma provincia."
+      },
+      {
+        "id": "B",
+        "texto": "La capacidad de los peritos acreditados para dictaminar sobre cualquier materia sin límite legal."
+      },
+      {
+        "id": "C",
+        "texto": "Es una atribución legal de la jurisdicción. Consiste en la facultad específica que tiene una jueza o juez para conocer determinados asuntos según la materia, territorio, grado o personas involucradas."
+      },
+      {
+        "id": "D",
+        "texto": "El poder absoluto de juzgar en todo el país sin respetar la materia ni el fuero de las personas."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una atribución legal de la jurisdicción. Consiste en la facultad específica que tiene una jueza o juez para conocer determinados asuntos según la materia, territorio, grado o personas involucradas.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 156 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 156 COFJ",
+      "textoSoporte": "Es una atribución legal de la jurisdicción. Consiste en la facultad específica que tiene una jueza o juez para conocer determinados asuntos según la materia, territorio, grado o personas involucradas.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-52",
+    "codigoOficial": "JR-COIP-COFJ-2026-052",
+    "materia": "Derecho Penal",
+    "subtema": "Independencia Judicial (COFJ)",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué garantiza la independencia judicial en el juzgamiento de contravenciones de la Función Judicial?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La subordinación obligatoria de los fallos judiciales a las instrucciones de ministros del Ejecutivo."
+      },
+      {
+        "id": "B",
+        "texto": "La facultad de los jueces de fallar contrariando expresamente la Constitución sin rendir cuentas."
+      },
+      {
+        "id": "C",
+        "texto": "El deber de consultar las sentencias contravencionales con los medios masivos de comunicación."
+      },
+      {
+        "id": "D",
+        "texto": "Que juezas y jueces adopten decisiones libres de presiones, influencias o interferencias externas."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Que juezas y jueces adopten decisiones libres de presiones, influencias o interferencias externas.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 168 num. 1 CRE, Art. 8 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 168 num. 1 CRE, Art. 8 COFJ",
+      "textoSoporte": "Que juezas y jueces adopten decisiones libres de presiones, influencias o interferencias externas.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-53",
+    "codigoOficial": "JR-COIP-COFJ-2026-053",
+    "materia": "Derecho Penal",
+    "subtema": "Imparcialidad Judicial (COFJ)",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la imparcialidad judicial?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una garantía del debido proceso. Consiste en la obligación de la autoridad judicial de actuar sin favorecer ni perjudicar indebidamente a ninguna de las partes."
+      },
+      {
+        "id": "B",
+        "texto": "El deber del juez de apoyar incondicionalmente las pretensiones de la parte que presentó primero la denuncia."
+      },
+      {
+        "id": "C",
+        "texto": "La prohibición a los jueces de valorar las pruebas testimoniales cuando una de las partes es extranjera."
+      },
+      {
+        "id": "D",
+        "texto": "La facultad del juzgador de actuar como testigo principal y acusador en el proceso que está tramitando."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía del debido proceso. Consiste en la obligación de la autoridad judicial de actuar sin favorecer ni perjudicar indebidamente a ninguna de las partes.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 76 num. 7 lit. k CRE, Art. 9 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 76 num. 7 lit. k CRE, Art. 9 COFJ",
+      "textoSoporte": "Es una garantía del debido proceso. Consiste en la obligación de la autoridad judicial de actuar sin favorecer ni perjudicar indebidamente a ninguna de las partes.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-54",
+    "codigoOficial": "JR-COIP-COFJ-2026-054",
+    "materia": "Derecho Penal",
+    "subtema": "Acceso a la Justicia",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué garantiza el acceso a la justicia?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La exigencia del pago previo de tasas judiciales onerosas como requisito para presentar quejas por contravención."
+      },
+      {
+        "id": "B",
+        "texto": "El derecho de toda persona a acudir a los órganos jurisdiccionales para obtener tutela judicial efectiva y una decisión conforme a Derecho."
+      },
+      {
+        "id": "C",
+        "texto": "El derecho de litigar sin someterse a las normas procesales previstas por el legislador ordinario."
+      },
+      {
+        "id": "D",
+        "texto": "La posibilidad de resolver toda controversia penal mediante linchamientos o castigos no autorizados."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"El derecho de toda persona a acudir a los órganos jurisdiccionales para obtener tutela judicial efectiva y una decisión conforme a Derecho.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 75 CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 75 CRE",
+      "textoSoporte": "El derecho de toda persona a acudir a los órganos jurisdiccionales para obtener tutela judicial efectiva y una decisión conforme a Derecho.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-55",
+    "codigoOficial": "JR-COIP-COFJ-2026-055",
+    "materia": "Derecho Penal",
+    "subtema": "Tutela Judicial Efectiva",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la tutela judicial efectiva en el ámbito de las contravenciones del COIP y COFJ?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El derecho a obtener un fallo favorable obligatoriamente, incluso cuando no se posea la razón en derecho."
+      },
+      {
+        "id": "B",
+        "texto": "La obligación del Estado de asegurar defensores privados pagados por la víctima en litigios civiles."
+      },
+      {
+        "id": "C",
+        "texto": "Es una garantía constitucional. Consiste en el derecho a acceder a la justicia, obtener una resolución motivada y lograr la ejecución efectiva de lo resuelto."
+      },
+      {
+        "id": "D",
+        "texto": "La suspensión indefinida del proceso hasta que el denunciado declare voluntariamente su culpabilidad."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía constitucional. Consiste en el derecho a acceder a la justicia, obtener una resolución motivada y lograr la ejecución efectiva de lo resuelto.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 75 CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 75 CRE",
+      "textoSoporte": "Es una garantía constitucional. Consiste en el derecho a acceder a la justicia, obtener una resolución motivada y lograr la ejecución efectiva de lo resuelto.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-56",
+    "codigoOficial": "JR-COIP-COFJ-2026-056",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Seguridad Jurídica",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué garantiza la seguridad jurídica?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La inmunidad total de los infractores penales frente a cualquier persecución sancionatoria del Estado."
+      },
+      {
+        "id": "B",
+        "texto": "La facultad del tribunal de cambiar arbitrariamente las reglas del procedimiento a mitad del juicio."
+      },
+      {
+        "id": "C",
+        "texto": "La imposición de penas retroactivas agravadas con base en preceptos consuetudinarios no codificados."
+      },
+      {
+        "id": "D",
+        "texto": "El respeto a la Constitución y la existencia de normas jurídicas previas, claras, públicas y aplicadas por autoridad competente."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"El respeto a la Constitución y la existencia de normas jurídicas previas, claras, públicas y aplicadas por autoridad competente.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 82 CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 82 CRE",
+      "textoSoporte": "El respeto a la Constitución y la existencia de normas jurídicas previas, claras, públicas y aplicadas por autoridad competente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-57",
+    "codigoOficial": "JR-COIP-COFJ-2026-057",
+    "materia": "Derecho Penal",
+    "subtema": "Principio de Legalidad",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio de legalidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un principio constitucional. Consiste en que las autoridades y servidores públicos únicamente pueden actuar dentro de las competencias y facultades que les atribuyen la Constitución y la ley."
+      },
+      {
+        "id": "B",
+        "texto": "La presunción de que los jueces pueden ejercer cualquier facultad no prohibida expresamente por la moral."
+      },
+      {
+        "id": "C",
+        "texto": "El principio según el cual todo ciudadano puede imponer sanciones penales por su propia cuenta."
+      },
+      {
+        "id": "D",
+        "texto": "La potestad del fiscal de tipificar nuevas contravenciones en sus dictámenes sin ley previa de la Asamblea."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio constitucional. Consiste en que las autoridades y servidores públicos únicamente pueden actuar dentro de las competencias y facultades que les atribuyen la Constitución y la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 226 CRE, Art. 76 num. 3 CRE, Art. 5 num. 1 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 226 CRE, Art. 76 num. 3 CRE, Art. 5 num. 1 COIP",
+      "textoSoporte": "Es un principio constitucional. Consiste en que las autoridades y servidores públicos únicamente pueden actuar dentro de las competencias y facultades que les atribuyen la Constitución y la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-58",
+    "codigoOficial": "JR-COIP-COFJ-2026-058",
+    "materia": "Derecho Penal",
+    "subtema": "Nulidad Procesal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una nulidad procesal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La ratificación definitiva de todas las actuaciones viciadas sin posibilidad de reclamo de las partes."
+      },
+      {
+        "id": "B",
+        "texto": "Es una institución procesal. Consiste en la invalidez de una actuación realizada con vulneración de requisitos esenciales o garantías fundamentales establecidas por la ley."
+      },
+      {
+        "id": "C",
+        "texto": "La condena obligatoria de la persona procesada a pesar de que el procedimiento estuvo viciado."
+      },
+      {
+        "id": "D",
+        "texto": "Un recurso ordinario que solo procede en causas civiles patrimoniales de mayor cuantía mercantil."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución procesal. Consiste en la invalidez de una actuación realizada con vulneración de requisitos esenciales o garantías fundamentales establecidas por la ley.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 652 num. 10 COIP, Art. 107 COGEP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 652 num. 10 COIP, Art. 107 COGEP",
+      "textoSoporte": "Es una institución procesal. Consiste en la invalidez de una actuación realizada con vulneración de requisitos esenciales o garantías fundamentales establecidas por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-59",
+    "codigoOficial": "JR-COIP-COFJ-2026-059",
+    "materia": "Derecho Penal",
+    "subtema": "Finalidad de la Nulidad Procesal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de la nulidad procesal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Extinguir definitivamente toda acción penal perdonando la responsabilidad material del infractor."
+      },
+      {
+        "id": "B",
+        "texto": "Sancionar con privación de libertad inmediata al juez que cometió el error procesal involuntario."
+      },
+      {
+        "id": "C",
+        "texto": "Restablecer la legalidad procesal y proteger los derechos afectados por actuaciones irregulares o violatorias del debido proceso."
+      },
+      {
+        "id": "D",
+        "texto": "Impedir que el juicio continúe aun cuando el defecto formal haya sido subsanado oportunamente."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Restablecer la legalidad procesal y proteger los derechos afectados por actuaciones irregulares o violatorias del debido proceso.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 652 num. 10 COIP, Art. 76 CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador / COIP",
+      "articulo": "Art. 652 num. 10 COIP, Art. 76 CRE",
+      "textoSoporte": "Restablecer la legalidad procesal y proteger los derechos afectados por actuaciones irregulares o violatorias del debido proceso.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "JR-CONTRAV-60",
+    "codigoOficial": "JR-COIP-COFJ-2026-060",
+    "materia": "Derecho Penal",
+    "subtema": "Saneamiento Procesal (COIP y COFJ)",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el saneamiento procesal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El cierre definitivo del expediente penal sin pronunciamiento judicial sobre el fondo de la controversia."
+      },
+      {
+        "id": "B",
+        "texto": "La exoneración incondicional de toda responsabilidad administrativa del secretario judicial actuante."
+      },
+      {
+        "id": "C",
+        "texto": "La renuncia irrevocable de la víctima a los derechos constitucionales de reparación integral del daño."
+      },
+      {
+        "id": "D",
+        "texto": "Es una institución procesal. Consiste en el conjunto de actuaciones destinadas a corregir, subsanar o superar defectos procesales para garantizar la validez del procedimiento."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución procesal. Consiste en el conjunto de actuaciones destinadas a corregir, subsanar o superar defectos procesales para garantizar la validez del procedimiento.\". Fundamento normativo positivo en el Código Orgánico Integral Penal (COIP), Código Orgánico de la Función Judicial (COFJ) y Constitución de la República del Ecuador (Art. 604 COIP, Art. 130 COFJ).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática contravencional, COFJ y garantías del debido proceso."
+    },
+    "fuente": {
+      "norma": "Código Orgánico de la Función Judicial (COFJ) / COIP",
+      "articulo": "Art. 604 COIP, Art. 130 COFJ",
+      "textoSoporte": "Es una institución procesal. Consiste en el conjunto de actuaciones destinadas a corregir, subsanar o superar defectos procesales para garantizar la validez del procedimiento.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia / Corte Constitucional del Ecuador",
+      "reglaJurisprudencial": "Garantías del debido proceso en materia contravencional, procedimiento expedito, motivación suficiente, inmediación y contradicción."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Contravenciones (COIP y COFJ) JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  }
+]

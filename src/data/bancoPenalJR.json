@@ -1,0 +1,3593 @@
+[
+  {
+    "id": "EFJ-PENAL-JR-001",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Finalidad y Principios del COIP",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad del Código Orgánico Integral Penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Normar el poder punitivo del Estado, tipificar las infracciones penales, establecer el procedimiento para su juzgamiento y garantizar la reparación integral de las víctimas."
+      },
+      {
+        "id": "B",
+        "texto": "Regular exclusivamente los procedimientos de mediación y arbitraje en materia civil y comercial patrimonial."
+      },
+      {
+        "id": "C",
+        "texto": "Establecer aranceles judiciales obligatorios para el ejercicio del litigio privado en cortes provinciales."
+      },
+      {
+        "id": "D",
+        "texto": "Sustituir de manera potestativa las penas de reclusión por sanciones administrativas sin intervención judicial."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Normar el poder punitivo del Estado, tipificar las infracciones penales, establecer el procedimiento para su juzgamiento y garantizar la reparación integral de las víctimas.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 1).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 1",
+      "textoSoporte": "Normar el poder punitivo del Estado, tipificar las infracciones penales, establecer el procedimiento para su juzgamiento y garantizar la reparación integral de las víctimas.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-002",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Teoría de la Infracción Penal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es una infracción penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Cualquier incumplimiento contractual entre particulares susceptible de indemnización en sede civil."
+      },
+      {
+        "id": "B",
+        "texto": "Es una conducta típica, antijurídica y culpable cuya sanción se encuentra prevista en la ley penal."
+      },
+      {
+        "id": "C",
+        "texto": "Una falta de cortesía procesal en audiencias orales sancionada administrativamente por el juzgador."
+      },
+      {
+        "id": "D",
+        "texto": "Toda acción moralmente reprochable por la costumbre social aunque carezca de tipificación previa en la ley."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una conducta típica, antijurídica y culpable cuya sanción se encuentra prevista en la ley penal.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 18).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 18",
+      "textoSoporte": "Es una conducta típica, antijurídica y culpable cuya sanción se encuentra prevista en la ley penal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-003",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Clasificación de Infracciones",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cómo se clasifican las infracciones penales?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "En crímenes graves, faltas administrativas y cuasidelitos civiles."
+      },
+      {
+        "id": "B",
+        "texto": "En infracciones dolosas primarias y faltas disciplinarias laborales."
+      },
+      {
+        "id": "C",
+        "texto": "En delitos y contravenciones."
+      },
+      {
+        "id": "D",
+        "texto": "En delitos ordinarios, actos de fuerza mayor y conductas atípicas."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"En delitos y contravenciones.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 19).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 19",
+      "textoSoporte": "En delitos y contravenciones.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-004",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Teoría del Delito - Tipicidad",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la tipicidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El reproche moral subjetivo emitido por la opinión pública frente a un acto antisocial."
+      },
+      {
+        "id": "B",
+        "texto": "La facultad del acusador particular de modificar los elementos del tipo penal durante la etapa de juicio."
+      },
+      {
+        "id": "C",
+        "texto": "El principio procesal que permite juzgar conductas análogas no contempladas formalmente en la ley penal."
+      },
+      {
+        "id": "D",
+        "texto": "Es una categoría de la teoría del delito. Consiste en la adecuación exacta de una conducta a la descripción contenida en un tipo penal. Se configura cuando la conducta realizada coincide con los elementos previstos por la ley."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una categoría de la teoría del delito. Consiste en la adecuación exacta de una conducta a la descripción contenida en un tipo penal. Se configura cuando la conducta realizada coincide con los elementos previstos por la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 25).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 25",
+      "textoSoporte": "Es una categoría de la teoría del delito. Consiste en la adecuación exacta de una conducta a la descripción contenida en un tipo penal. Se configura cuando la conducta realizada coincide con los elementos previstos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-005",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Teoría del Delito - Antijuridicidad",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la antijuridicidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una categoría de la teoría del delito. Consiste en la contradicción de una conducta típica con el ordenamiento jurídico. Se configura cuando la conducta típica no se encuentra amparada por una causa de justificación."
+      },
+      {
+        "id": "B",
+        "texto": "La capacidad biológica y psíquica de discernimiento del procesado al momento de rendir versión ante la policía."
+      },
+      {
+        "id": "C",
+        "texto": "La simple divergencia doctrinaria entre el criterio del tribunal y la teoría del caso de la defensa."
+      },
+      {
+        "id": "D",
+        "texto": "El cumplimiento voluntario e incondicional de una orden jerárquica manifiestamente ilícita."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una categoría de la teoría del delito. Consiste en la contradicción de una conducta típica con el ordenamiento jurídico. Se configura cuando la conducta típica no se encuentra amparada por una causa de justificación.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 29).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 29",
+      "textoSoporte": "Es una categoría de la teoría del delito. Consiste en la contradicción de una conducta típica con el ordenamiento jurídico. Se configura cuando la conducta típica no se encuentra amparada por una causa de justificación.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-006",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Teoría del Delito - Culpabilidad",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la culpabilidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La atribución objetiva del resultado material con prescindencia del estado mental o voluntad del sujeto activo."
+      },
+      {
+        "id": "B",
+        "texto": "Es una categoría de la teoría del delito. Consiste en el juicio de reproche jurídico formulado contra quien realiza una conducta típica y antijurídica pudiendo actuar conforme al Derecho. Se configura cuando existe imputabilidad y posibilidad de comprender la ilicitud de la conducta."
+      },
+      {
+        "id": "C",
+        "texto": "La confesión espontánea del procesado rendida sin presencia de su abogado defensor en fase preprocesal."
+      },
+      {
+        "id": "D",
+        "texto": "La sospecha fundada del juzgador que releva a la Fiscalía de la carga probatoria durante el juicio penal."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una categoría de la teoría del delito. Consiste en el juicio de reproche jurídico formulado contra quien realiza una conducta típica y antijurídica pudiendo actuar conforme al Derecho. Se configura cuando existe imputabilidad y posibilidad de comprender la ilicitud de la conducta.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 34).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 34",
+      "textoSoporte": "Es una categoría de la teoría del delito. Consiste en el juicio de reproche jurídico formulado contra quien realiza una conducta típica y antijurídica pudiendo actuar conforme al Derecho. Se configura cuando existe imputabilidad y posibilidad de comprender la ilicitud de la conducta.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-007",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Imputabilidad Penal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la imputabilidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La facultad conferida al fiscal para acusar a personas jurídicas en cualquier tipo de contravención leve."
+      },
+      {
+        "id": "B",
+        "texto": "El estado transitorio de ebriedad voluntaria buscada deliberadamente para cometer un hecho delictivo."
+      },
+      {
+        "id": "C",
+        "texto": "Es la capacidad jurídica de una persona para comprender la ilicitud de sus actos y dirigir su conducta conforme a esa comprensión. Se configura cuando la persona posee aptitud psíquica suficiente para responder penalmente por sus acciones."
+      },
+      {
+        "id": "D",
+        "texto": "La edad cronológica alcanzada a los 12 años para ser procesado dentro del sistema penal ordinario de adultos."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es la capacidad jurídica de una persona para comprender la ilicitud de sus actos y dirigir su conducta conforme a esa comprensión. Se configura cuando la persona posee aptitud psíquica suficiente para responder penalmente por sus acciones.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 35).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 35",
+      "textoSoporte": "Es la capacidad jurídica de una persona para comprender la ilicitud de sus actos y dirigir su conducta conforme a esa comprensión. Se configura cuando la persona posee aptitud psíquica suficiente para responder penalmente por sus acciones.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-008",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Ejercicio de la Acción Penal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la acción penal pública?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La acción jurisdiccional privativa reservada exclusivamente al acusador particular mediante querella formal de calumnia."
+      },
+      {
+        "id": "B",
+        "texto": "El derecho potestativo de la víctima de renunciar libremente al juzgamiento de delitos sancionados con pena superior a 5 años."
+      },
+      {
+        "id": "C",
+        "texto": "El trámite administrativo sancionador sustanciado por las comisarías de policía municipal."
+      },
+      {
+        "id": "D",
+        "texto": "Es una institución procesal penal mediante la cual el Estado ejerce la persecución de las infracciones cuyo ejercicio corresponde a la Fiscalía. Consiste en investigar, impulsar y sostener la acción penal respecto de infracciones de ejercicio público."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución procesal penal mediante la cual el Estado ejerce la persecución de las infracciones cuyo ejercicio corresponde a la Fiscalía. Consiste en investigar, impulsar y sostener la acción penal respecto de infracciones de ejercicio público.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 410, 411).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 410, 411",
+      "textoSoporte": "Es una institución procesal penal mediante la cual el Estado ejerce la persecución de las infracciones cuyo ejercicio corresponde a la Fiscalía. Consiste en investigar, impulsar y sostener la acción penal respecto de infracciones de ejercicio público.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-009",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Sujetos Procesales y Fiscalía",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Quién dirige la investigación preprocesal y procesal penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La Fiscalía General del Estado."
+      },
+      {
+        "id": "B",
+        "texto": "El Ministerio del Interior a través de los intendentes generales de policía."
+      },
+      {
+        "id": "C",
+        "texto": "El juez de garantías penales de forma oficiosa durante toda la fase de investigación previa."
+      },
+      {
+        "id": "D",
+        "texto": "La Defensoría Pública en coordinación con el Consejo de la Judicatura."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"La Fiscalía General del Estado.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 442).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 442",
+      "textoSoporte": "La Fiscalía General del Estado.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-010",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Consecuencias Jurídicas de la Infracción",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la pena?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Una medida cautelar provisoria ordenada durante la audiencia de formulación de cargos para asegurar la presencia del imputado."
+      },
+      {
+        "id": "B",
+        "texto": "Es una consecuencia jurídica penal impuesta por el Estado mediante sentencia condenatoria ejecutoriada. Consiste en la sanción establecida por la ley para quien ha sido declarado responsable de una infracción penal."
+      },
+      {
+        "id": "C",
+        "texto": "Un castigo de carácter ejemplarizante y aflictivo impuesto sin necesidad de juicio oral contradictorio."
+      },
+      {
+        "id": "D",
+        "texto": "Una sanción patrimonial fijada discrecionalmente por peritos contables sin sustento en resolución judicial."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una consecuencia jurídica penal impuesta por el Estado mediante sentencia condenatoria ejecutoriada. Consiste en la sanción establecida por la ley para quien ha sido declarado responsable de una infracción penal.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 51).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 51",
+      "textoSoporte": "Es una consecuencia jurídica penal impuesta por el Estado mediante sentencia condenatoria ejecutoriada. Consiste en la sanción establecida por la ley para quien ha sido declarado responsable de una infracción penal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-011",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Tipicidad Subjetiva - Dolo",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el dolo?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La inobservancia involuntaria de reglamentos de tránsito sin prever el resultado lesivo producido."
+      },
+      {
+        "id": "B",
+        "texto": "La confianza imprudente de que el evento dañoso no sobrevendrá a pesar del riesgo creado."
+      },
+      {
+        "id": "C",
+        "texto": "Es una forma de imputación subjetiva de la conducta penal. Consiste en actuar con conocimiento y voluntad de realizar los elementos constitutivos del tipo penal. Se configura cuando la persona conoce los elementos de la infracción y decide ejecutarla."
+      },
+      {
+        "id": "D",
+        "texto": "El estado de alteración psíquica fortuita no imputable al autor que extingue el conocimiento de la acción."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de imputación subjetiva de la conducta penal. Consiste en actuar con conocimiento y voluntad de realizar los elementos constitutivos del tipo penal. Se configura cuando la persona conoce los elementos de la infracción y decide ejecutarla.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 26).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 26",
+      "textoSoporte": "Es una forma de imputación subjetiva de la conducta penal. Consiste en actuar con conocimiento y voluntad de realizar los elementos constitutivos del tipo penal. Se configura cuando la persona conoce los elementos de la infracción y decide ejecutarla.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-012",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Tipicidad Subjetiva - Culpa",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la culpa?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El designio premeditado y consciente de causar la muerte o lesión grave a la víctima mediante precio o promesa remuneratoria."
+      },
+      {
+        "id": "B",
+        "texto": "La maquinación dolosa orientada a ocultar los rastros del delito una vez consumada la infracción."
+      },
+      {
+        "id": "C",
+        "texto": "La presunción judicial absoluta de responsabilidad por el solo acontecimiento del resultado material lesivo."
+      },
+      {
+        "id": "D",
+        "texto": "Es una forma de imputación subjetiva penal basada en la infracción del deber objetivo de cuidado. Consiste en ocasionar un resultado jurídicamente relevante sin intención de producirlo. Se configura cuando se infringe el deber de cuidado y dicha infracción genera el resultado previsto por la ley."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de imputación subjetiva penal basada en la infracción del deber objetivo de cuidado. Consiste en ocasionar un resultado jurídicamente relevante sin intención de producirlo. Se configura cuando se infringe el deber de cuidado y dicha infracción genera el resultado previsto por la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 27).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 27",
+      "textoSoporte": "Es una forma de imputación subjetiva penal basada en la infracción del deber objetivo de cuidado. Consiste en ocasionar un resultado jurídicamente relevante sin intención de producirlo. Se configura cuando se infringe el deber de cuidado y dicha infracción genera el resultado previsto por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-013",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Teoría del Error - Error de Tipo",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el error de tipo?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una institución de la teoría del delito que afecta la tipicidad. Consiste en el desconocimiento o equivocación respecto de un elemento constitutivo del tipo penal. Se configura cuando existe una percepción errónea sobre los elementos objetivos de la infracción."
+      },
+      {
+        "id": "B",
+        "texto": "La creencia errónea del autor de que el hecho típico ejecutado está permitido y amparado por el ordenamiento legal."
+      },
+      {
+        "id": "C",
+        "texto": "La falta de motivación jurídica en el auto de llamamiento a juicio dictado por el juzgador de garantías penales."
+      },
+      {
+        "id": "D",
+        "texto": "La indebida calificación de la agravante de nocturnidad formulada en la acusación fiscal."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución de la teoría del delito que afecta la tipicidad. Consiste en el desconocimiento o equivocación respecto de un elemento constitutivo del tipo penal. Se configura cuando existe una percepción errónea sobre los elementos objetivos de la infracción.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 28.1).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 28.1",
+      "textoSoporte": "Es una institución de la teoría del delito que afecta la tipicidad. Consiste en el desconocimiento o equivocación respecto de un elemento constitutivo del tipo penal. Se configura cuando existe una percepción errónea sobre los elementos objetivos de la infracción.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-014",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Teoría del Error - Error de Prohibición",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el error de prohibición?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La equivocación del sujeto respecto al objeto material sobre el cual recae físicamente la acción."
+      },
+      {
+        "id": "B",
+        "texto": "Es una institución de la teoría del delito que afecta la culpabilidad. Consiste en desconocer que la conducta realizada se encuentra prohibida por el ordenamiento jurídico. Se configura cuando existe error sobre la ilicitud del acto cometido."
+      },
+      {
+        "id": "C",
+        "texto": "El descuido inexcusable que conduce a la infracción del deber objetivo de cuidado en actividades profesionales."
+      },
+      {
+        "id": "D",
+        "texto": "La tipificación sobrevenida de un nuevo delito con aplicación retroactiva en perjuicio del procesado."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución de la teoría del delito que afecta la culpabilidad. Consiste en desconocer que la conducta realizada se encuentra prohibida por el ordenamiento jurídico. Se configura cuando existe error sobre la ilicitud del acto cometido.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 35.1).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 35.1",
+      "textoSoporte": "Es una institución de la teoría del delito que afecta la culpabilidad. Consiste en desconocer que la conducta realizada se encuentra prohibida por el ordenamiento jurídico. Se configura cuando existe error sobre la ilicitud del acto cometido.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-015",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Causas de Justificación",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la legítima defensa?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El derecho potestativo de tomar represalias personales pasadas horas o días de haber sufrido un agravio."
+      },
+      {
+        "id": "B",
+        "texto": "El uso desmedido de armas de fuego frente a una amenaza ficticia o un insulto meramente verbal."
+      },
+      {
+        "id": "C",
+        "texto": "Es una causa de exclusión de la antijuridicidad. Consiste en repeler una agresión actual e ilegítima mediante una reacción racionalmente necesaria. Se configura cuando concurren agresión ilegítima, necesidad racional de la defensa y falta de provocación suficiente."
+      },
+      {
+        "id": "D",
+        "texto": "Una circunstancia atenuante genérica que solo disminuye en un tercio la pena de prisión aplicable."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una causa de exclusión de la antijuridicidad. Consiste en repeler una agresión actual e ilegítima mediante una reacción racionalmente necesaria. Se configura cuando concurren agresión ilegítima, necesidad racional de la defensa y falta de provocación suficiente.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 33).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 33",
+      "textoSoporte": "Es una causa de exclusión de la antijuridicidad. Consiste en repeler una agresión actual e ilegítima mediante una reacción racionalmente necesaria. Se configura cuando concurren agresión ilegítima, necesidad racional de la defensa y falta de provocación suficiente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-016",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Causas de Justificación",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el estado de necesidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La autorización judicial otorgada con anterioridad para infringir leyes penales en resguardo del patrimonio público."
+      },
+      {
+        "id": "B",
+        "texto": "Una medida cautelar real solicitada por la Fiscalía para congelar cuentas bancarias del investigado."
+      },
+      {
+        "id": "C",
+        "texto": "El sacrificio intencional de la vida humana ajena para precautelar intereses puramente económicos del autor."
+      },
+      {
+        "id": "D",
+        "texto": "Es una causa de exclusión de la antijuridicidad. Consiste en lesionar un bien jurídico para proteger otro de igual o mayor valor frente a un peligro actual. Se configura cuando el peligro no puede evitarse por otro medio y existe proporcionalidad entre el bien sacrificado y el protegido."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una causa de exclusión de la antijuridicidad. Consiste en lesionar un bien jurídico para proteger otro de igual o mayor valor frente a un peligro actual. Se configura cuando el peligro no puede evitarse por otro medio y existe proporcionalidad entre el bien sacrificado y el protegido.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 32).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 32",
+      "textoSoporte": "Es una causa de exclusión de la antijuridicidad. Consiste en lesionar un bien jurídico para proteger otro de igual o mayor valor frente a un peligro actual. Se configura cuando el peligro no puede evitarse por otro medio y existe proporcionalidad entre el bien sacrificado y el protegido.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-017",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Grados del Delito - Tentativa",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la tentativa?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una forma imperfecta de ejecución de la infracción penal. Consiste en iniciar la ejecución de un delito sin llegar a consumarlo por causas ajenas a la voluntad del autor. Se configura cuando existen actos idóneos e inequívocos de ejecución dirigidos a consumar la infracción."
+      },
+      {
+        "id": "B",
+        "texto": "La simple ideación en el fuero interno del sujeto activo sin despliegue de actos materiales exteriores."
+      },
+      {
+        "id": "C",
+        "texto": "El arrepentimiento posterior a la consumación íntegra de todos los elementos del tipo delictivo."
+      },
+      {
+        "id": "D",
+        "texto": "La complicidad accesoria de quien facilita un vehículo sabiendo que el delito ya fue perpetrado."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma imperfecta de ejecución de la infracción penal. Consiste en iniciar la ejecución de un delito sin llegar a consumarlo por causas ajenas a la voluntad del autor. Se configura cuando existen actos idóneos e inequívocos de ejecución dirigidos a consumar la infracción.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 39).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 39",
+      "textoSoporte": "Es una forma imperfecta de ejecución de la infracción penal. Consiste en iniciar la ejecución de un delito sin llegar a consumarlo por causas ajenas a la voluntad del autor. Se configura cuando existen actos idóneos e inequívocos de ejecución dirigidos a consumar la infracción.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-018",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Tentativa y Desistimiento",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el desistimiento voluntario?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La fuga apresurada del imputado al advertir la presencia de patrulleros policiales armados."
+      },
+      {
+        "id": "B",
+        "texto": "Es una institución vinculada a la tentativa. Consiste en abandonar espontáneamente la ejecución del delito antes de su consumación. Se configura cuando el autor interrumpe voluntariamente su actuación sin que existan factores externos determinantes."
+      },
+      {
+        "id": "C",
+        "texto": "La negativa formal de la víctima a comparecer al juicio penal a rendir su testimonio anticipado."
+      },
+      {
+        "id": "D",
+        "texto": "El sobreseimiento definitivo dictado por el juzgador al constatar falta de mérito en la acusación."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución vinculada a la tentativa. Consiste en abandonar espontáneamente la ejecución del delito antes de su consumación. Se configura cuando el autor interrumpe voluntariamente su actuación sin que existan factores externos determinantes.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 40).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 40",
+      "textoSoporte": "Es una institución vinculada a la tentativa. Consiste en abandonar espontáneamente la ejecución del delito antes de su consumación. Se configura cuando el autor interrumpe voluntariamente su actuación sin que existan factores externos determinantes.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-019",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Participación Criminal - Autoría",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la autoría directa?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Prestar auxilio secundario con posterioridad a la consumación del delito para esconder evidencias."
+      },
+      {
+        "id": "B",
+        "texto": "Determinar a un inimputable a cometer un delito valiéndose de amenazas o coacción irresistible."
+      },
+      {
+        "id": "C",
+        "texto": "Es una forma de participación criminal. Consiste en ejecutar personalmente la conducta descrita en el tipo penal. Se configura cuando una persona realiza directamente los actos constitutivos de la infracción."
+      },
+      {
+        "id": "D",
+        "texto": "Financiar de manera clandestina la huida de los sospechosos fuera de las fronteras nacionales."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de participación criminal. Consiste en ejecutar personalmente la conducta descrita en el tipo penal. Se configura cuando una persona realiza directamente los actos constitutivos de la infracción.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 42 num. 1).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 42 num. 1",
+      "textoSoporte": "Es una forma de participación criminal. Consiste en ejecutar personalmente la conducta descrita en el tipo penal. Se configura cuando una persona realiza directamente los actos constitutivos de la infracción.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-020",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Participación Criminal - Coautoría",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la coautoría?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El conocimiento pasivo de un testigo que observa la comisión de una infracción sin denunciarla."
+      },
+      {
+        "id": "B",
+        "texto": "La instigación verbal fallida que no produce resolución criminal en la persona destinataria."
+      },
+      {
+        "id": "C",
+        "texto": "El encubrimiento posterior del hecho mediante compraventa de bienes de procedencia ilícita."
+      },
+      {
+        "id": "D",
+        "texto": "Es una forma de participación criminal. Consiste en la ejecución conjunta de una infracción penal mediante acuerdo común y reparto funcional de tareas. Se configura cuando varias personas intervienen coordinadamente en la realización de la conducta típica."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de participación criminal. Consiste en la ejecución conjunta de una infracción penal mediante acuerdo común y reparto funcional de tareas. Se configura cuando varias personas intervienen coordinadamente en la realización de la conducta típica.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 42 num. 2).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 42 num. 2",
+      "textoSoporte": "Es una forma de participación criminal. Consiste en la ejecución conjunta de una infracción penal mediante acuerdo común y reparto funcional de tareas. Se configura cuando varias personas intervienen coordinadamente en la realización de la conducta típica.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-021",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Participación Criminal - Complicidad",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la complicidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una forma accesoria de participación criminal. Consiste en colaborar o ayudar a la ejecución de una infracción sin intervenir como autor principal. Se configura cuando existe una cooperación secundaria vinculada al hecho principal."
+      },
+      {
+        "id": "B",
+        "texto": "El dominio final y funcional del hecho ilícito desplegado conjuntamente por la banda criminal."
+      },
+      {
+        "id": "C",
+        "texto": "La ejecución material de la conducta descrita en el núcleo del tipo penal sustantivo."
+      },
+      {
+        "id": "D",
+        "texto": "La responsabilidad penal objetiva derivada exclusivamente de la relación de parentesco con el delincuente."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma accesoria de participación criminal. Consiste en colaborar o ayudar a la ejecución de una infracción sin intervenir como autor principal. Se configura cuando existe una cooperación secundaria vinculada al hecho principal.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 43).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 43",
+      "textoSoporte": "Es una forma accesoria de participación criminal. Consiste en colaborar o ayudar a la ejecución de una infracción sin intervenir como autor principal. Se configura cuando existe una cooperación secundaria vinculada al hecho principal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-022",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Participación Criminal - Diferencias",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la diferencia entre autor y cómplice?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El autor siempre actúa con culpa inconsciente; el cómplice responde indispensablemente a título de dolo directo."
+      },
+      {
+        "id": "B",
+        "texto": "El autor realiza o domina el hecho principal de la infracción; el cómplice presta una ayuda accesoria o secundaria para su ejecución."
+      },
+      {
+        "id": "C",
+        "texto": "El autor solo recibe penas pecuniarias de multa; el cómplice asume la pena privativa de libertad más severa."
+      },
+      {
+        "id": "D",
+        "texto": "El autor es juzgado por jueces de paz; el cómplice es juzgado por tribunales penales de alzada."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"El autor realiza o domina el hecho principal de la infracción; el cómplice presta una ayuda accesoria o secundaria para su ejecución.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 42 y 43).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 42 y 43",
+      "textoSoporte": "El autor realiza o domina el hecho principal de la infracción; el cómplice presta una ayuda accesoria o secundaria para su ejecución.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-023",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Modificatorias de Responsabilidad - Atenuantes",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué son las circunstancias atenuantes?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Causales legales de extinción ipso jure de la acción penal que obligan al archivo definitivo del proceso."
+      },
+      {
+        "id": "B",
+        "texto": "Criterios subjetivos del acusador particular para negociar la cuantía del daño moral en la querella."
+      },
+      {
+        "id": "C",
+        "texto": "Son circunstancias modificatorias de la responsabilidad penal que favorecen a la persona procesada o sentenciada. Consisten en factores previstos por la ley que permiten disminuir la respuesta penal."
+      },
+      {
+        "id": "D",
+        "texto": "Presunciones de derecho que impiden a la Fiscalía presentar prueba pericial balística o documentológica."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Son circunstancias modificatorias de la responsabilidad penal que favorecen a la persona procesada o sentenciada. Consisten en factores previstos por la ley que permiten disminuir la respuesta penal.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 45).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 45",
+      "textoSoporte": "Son circunstancias modificatorias de la responsabilidad penal que favorecen a la persona procesada o sentenciada. Consisten en factores previstos por la ley que permiten disminuir la respuesta penal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-024",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Modificatorias de Responsabilidad - Agravantes",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué son las circunstancias agravantes?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Eximentes completas de responsabilidad penal por concurrencia de fuerza física irresistible."
+      },
+      {
+        "id": "B",
+        "texto": "Condiciones formales indispensables para declarar la nulidad insubsanable del auto de llamamiento a juicio."
+      },
+      {
+        "id": "C",
+        "texto": "Requisitos procesales de admisibilidad de las medidas de protección a favor del victimario."
+      },
+      {
+        "id": "D",
+        "texto": "Son circunstancias modificatorias de la responsabilidad penal que incrementan la gravedad jurídica de la infracción. Consisten en factores previstos por la ley que justifican una respuesta penal más severa."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Son circunstancias modificatorias de la responsabilidad penal que incrementan la gravedad jurídica de la infracción. Consisten en factores previstos por la ley que justifican una respuesta penal más severa.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 47).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 47",
+      "textoSoporte": "Son circunstancias modificatorias de la responsabilidad penal que incrementan la gravedad jurídica de la infracción. Consisten en factores previstos por la ley que justifican una respuesta penal más severa.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-025",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Concurso de Infracciones - Concurso Real",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el concurso real de infracciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una forma de concurrencia de infracciones penales. Consiste en la comisión de varias infracciones mediante varias acciones independientes. Se configura cuando existe pluralidad de conductas y pluralidad de infracciones."
+      },
+      {
+        "id": "B",
+        "texto": "La comisión de un único delito formal mediante el empleo de múltiples instrumentos lesivos."
+      },
+      {
+        "id": "C",
+        "texto": "La comisión de varios delitos mediante una sola acción inescindible que transgrede distintos tipos penales."
+      },
+      {
+        "id": "D",
+        "texto": "La acumulación de faltas disciplinarias laborales con sanciones tributarias de clausura de locales."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de concurrencia de infracciones penales. Consiste en la comisión de varias infracciones mediante varias acciones independientes. Se configura cuando existe pluralidad de conductas y pluralidad de infracciones.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 20).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 20",
+      "textoSoporte": "Es una forma de concurrencia de infracciones penales. Consiste en la comisión de varias infracciones mediante varias acciones independientes. Se configura cuando existe pluralidad de conductas y pluralidad de infracciones.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-026",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Concurso de Infracciones - Concurso Ideal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el concurso ideal de infracciones?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La comisión sucesiva de delitos autónomos en diferentes fechas y contra distintos sujetos pasivos."
+      },
+      {
+        "id": "B",
+        "texto": "Es una forma de concurrencia de infracciones penales. Consiste en la producción de varias infracciones mediante una sola conducta. Se configura cuando una misma acción vulnera simultáneamente varios tipos penales."
+      },
+      {
+        "id": "C",
+        "texto": "La concurrencia de causas de justificación que anulan recíprocamente la antijuridicidad del hecho."
+      },
+      {
+        "id": "D",
+        "texto": "La reiteración de contravenciones de tránsito cometidas a lo largo de un período anual."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de concurrencia de infracciones penales. Consiste en la producción de varias infracciones mediante una sola conducta. Se configura cuando una misma acción vulnera simultáneamente varios tipos penales.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 21).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 21",
+      "textoSoporte": "Es una forma de concurrencia de infracciones penales. Consiste en la producción de varias infracciones mediante una sola conducta. Se configura cuando una misma acción vulnera simultáneamente varios tipos penales.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-027",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Penas Privativas de Libertad",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la pena privativa de libertad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Una detención con fines investigativos ejecutada por la policía sin boleta judicial previa."
+      },
+      {
+        "id": "B",
+        "texto": "El arraigo domiciliario dictado durante la conciliación como medida transitoria de amparo familiar."
+      },
+      {
+        "id": "C",
+        "texto": "Es una pena principal prevista por el sistema penal ecuatoriano. Consiste en la restricción legal de la libertad personal impuesta mediante sentencia condenatoria. Se configura cuando una autoridad judicial determina responsabilidad penal e impone la sanción correspondiente."
+      },
+      {
+        "id": "D",
+        "texto": "La inhabilitación temporal para el ejercicio de profesión u oficio sin encierro penitenciario."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una pena principal prevista por el sistema penal ecuatoriano. Consiste en la restricción legal de la libertad personal impuesta mediante sentencia condenatoria. Se configura cuando una autoridad judicial determina responsabilidad penal e impone la sanción correspondiente.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 52, 53).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 52, 53",
+      "textoSoporte": "Es una pena principal prevista por el sistema penal ecuatoriano. Consiste en la restricción legal de la libertad personal impuesta mediante sentencia condenatoria. Se configura cuando una autoridad judicial determina responsabilidad penal e impone la sanción correspondiente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-028",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Penas No Privativas de Libertad",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué son las penas no privativas de libertad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Beneficios penitenciarios otorgados potestativamente por los directores de centros carcelarios."
+      },
+      {
+        "id": "B",
+        "texto": "Exenciones absolutas de juzgamiento concedidas a funcionarios con fuero de corte nacional."
+      },
+      {
+        "id": "C",
+        "texto": "Sentencias absolutorias que disponen el archivo de la causa penal por duda razonable."
+      },
+      {
+        "id": "D",
+        "texto": "Son sanciones penales distintas al encarcelamiento. Consisten en medidas legalmente previstas que restringen o afectan determinados derechos sin implicar privación de libertad."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Son sanciones penales distintas al encarcelamiento. Consisten en medidas legalmente previstas que restringen o afectan determinados derechos sin implicar privación de libertad.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 60).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 60",
+      "textoSoporte": "Son sanciones penales distintas al encarcelamiento. Consisten en medidas legalmente previstas que restringen o afectan determinados derechos sin implicar privación de libertad.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-029",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Reparación Integral de Víctimas",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la reparación integral a la víctima en el proceso penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una institución jurídica destinada a restituir derechos y reparar los daños ocasionados por una infracción penal. Consiste en un conjunto de medidas orientadas a restablecer la situación de la víctima en la mayor medida posible."
+      },
+      {
+        "id": "B",
+        "texto": "La simple cancelación de las costas y honorarios del abogado defensor de la persona sentenciada."
+      },
+      {
+        "id": "C",
+        "texto": "El pago voluntario de una fianza pecuniaria para sustituir la prisión preventiva en fase de instrucción."
+      },
+      {
+        "id": "D",
+        "texto": "Una multa recaudada exclusivamente a favor del presupuesto del Ministerio de Economía y Finanzas."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución jurídica destinada a restituir derechos y reparar los daños ocasionados por una infracción penal. Consiste en un conjunto de medidas orientadas a restablecer la situación de la víctima en la mayor medida posible.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 77, 78).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 77, 78",
+      "textoSoporte": "Es una institución jurídica destinada a restituir derechos y reparar los daños ocasionados por una infracción penal. Consiste en un conjunto de medidas orientadas a restablecer la situación de la víctima en la mayor medida posible.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-030",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Derechos de las Víctimas",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Quién es considerado víctima según el Código Orgánico Integral Penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Únicamente el Estado ecuatoriano cuando se cometen delitos contra la administración pública."
+      },
+      {
+        "id": "B",
+        "texto": "Es la persona natural o jurídica que ha sufrido daños o afectaciones como consecuencia de una infracción penal, así como quienes la ley reconoce expresamente con esa calidad."
+      },
+      {
+        "id": "C",
+        "texto": "Exclusivamente la persona que presente acusación particular debidamente reconocida y juramentada."
+      },
+      {
+        "id": "D",
+        "texto": "Cualquier ciudadano que tenga interés cívico aunque no haya experimentado menoscabo en sus derechos."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es la persona natural o jurídica que ha sufrido daños o afectaciones como consecuencia de una infracción penal, así como quienes la ley reconoce expresamente con esa calidad.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 441).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 441",
+      "textoSoporte": "Es la persona natural o jurídica que ha sufrido daños o afectaciones como consecuencia de una infracción penal, así como quienes la ley reconoce expresamente con esa calidad.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-031",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Medidas de Seguridad Penal",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué son las medidas de seguridad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Dispositivos electrónicos de vigilancia utilizados únicamente durante la flagrancia procesal."
+      },
+      {
+        "id": "B",
+        "texto": "Sanciones corporales accesorias ejecutadas en régimen de aislamiento celular riguroso."
+      },
+      {
+        "id": "C",
+        "texto": "Son consecuencias jurídicas de carácter preventivo aplicables en los casos previstos por la ley, especialmente respecto de personas inimputables o con imputabilidad disminuida. Consisten en mecanismos orientados a evitar la comisión de nuevas infracciones y proteger a la sociedad."
+      },
+      {
+        "id": "D",
+        "texto": "Cauciones juratorias suscritas por el fiscal para garantizar la imparcialidad del dictamen."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Son consecuencias jurídicas de carácter preventivo aplicables en los casos previstos por la ley, especialmente respecto de personas inimputables o con imputabilidad disminuida. Consisten en mecanismos orientados a evitar la comisión de nuevas infracciones y proteger a la sociedad.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 76).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 76",
+      "textoSoporte": "Son consecuencias jurídicas de carácter preventivo aplicables en los casos previstos por la ley, especialmente respecto de personas inimputables o con imputabilidad disminuida. Consisten en mecanismos orientados a evitar la comisión de nuevas infracciones y proteger a la sociedad.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-032",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Extinción de la Acción Penal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la extinción de la acción penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La interrupción provisional del plazo de instrucción fiscal para evacuar diligencias periciales."
+      },
+      {
+        "id": "B",
+        "texto": "La abstención del fiscal que puede ser revocada de oficio por el Consejo de la Judicatura."
+      },
+      {
+        "id": "C",
+        "texto": "La sustitución obligatoria de la acusación particular por una demanda ordinaria en sede contenciosa."
+      },
+      {
+        "id": "D",
+        "texto": "Es una institución jurídica que pone fin a la facultad del Estado para perseguir una infracción penal. Se configura cuando concurre alguna de las causas previstas por la ley."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución jurídica que pone fin a la facultad del Estado para perseguir una infracción penal. Se configura cuando concurre alguna de las causas previstas por la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 416).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 416",
+      "textoSoporte": "Es una institución jurídica que pone fin a la facultad del Estado para perseguir una infracción penal. Se configura cuando concurre alguna de las causas previstas por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-033",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Prescripción de la Acción Penal",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prescripción de la acción penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una forma de extinción de la acción penal. Consiste en la pérdida del derecho del Estado a perseguir una infracción debido al transcurso del tiempo establecido por la ley."
+      },
+      {
+        "id": "B",
+        "texto": "La caducidad de la prisión preventiva operada a los seis meses en delitos sancionados con prisión."
+      },
+      {
+        "id": "C",
+        "texto": "La pérdida del expediente judicial por caso fortuito o negligencia del secretario de sala."
+      },
+      {
+        "id": "D",
+        "texto": "El decaimiento temporal de las medidas de protección concedidas en favor de la víctima de violencia."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de extinción de la acción penal. Consiste en la pérdida del derecho del Estado a perseguir una infracción debido al transcurso del tiempo establecido por la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 417).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 417",
+      "textoSoporte": "Es una forma de extinción de la acción penal. Consiste en la pérdida del derecho del Estado a perseguir una infracción debido al transcurso del tiempo establecido por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-034",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Prescripción de la Pena",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la prescripción de la pena?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La libertad condicional obtenida tras cumplir el 60% de la condena impuesta en sentencia firme."
+      },
+      {
+        "id": "B",
+        "texto": "Es una forma de extinción de la ejecución de la pena. Consiste en la imposibilidad jurídica de ejecutar una sanción debido al transcurso del tiempo fijado por la ley."
+      },
+      {
+        "id": "C",
+        "texto": "El perdón judicial otorgado en audiencia preparatoria de juicio por el juez instructor."
+      },
+      {
+        "id": "D",
+        "texto": "La reducción general de penas dispuesta por amnistía legislativa para delitos de odio o lesa humanidad."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de extinción de la ejecución de la pena. Consiste en la imposibilidad jurídica de ejecutar una sanción debido al transcurso del tiempo fijado por la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 75).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 75",
+      "textoSoporte": "Es una forma de extinción de la ejecución de la pena. Consiste en la imposibilidad jurídica de ejecutar una sanción debido al transcurso del tiempo fijado por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-035",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Principios Fundamentales - Legalidad",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio de legalidad penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La potestad del juzgador de crear delitos mediante interpretación analógica o extensiva."
+      },
+      {
+        "id": "B",
+        "texto": "La facultad de los órganos policiales de definir contravenciones según el orden público del momento."
+      },
+      {
+        "id": "C",
+        "texto": "Es un principio fundamental del Derecho Penal. Establece que ninguna conducta puede ser considerada infracción ni sancionada sin una ley previa que la tipifique y establezca la pena correspondiente."
+      },
+      {
+        "id": "D",
+        "texto": "La posibilidad de imponer sanciones privativas de libertad sobre la base exclusiva de la costumbre mercantil."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio fundamental del Derecho Penal. Establece que ninguna conducta puede ser considerada infracción ni sancionada sin una ley previa que la tipifique y establezca la pena correspondiente.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 5 num. 1).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 5 num. 1",
+      "textoSoporte": "Es un principio fundamental del Derecho Penal. Establece que ninguna conducta puede ser considerada infracción ni sancionada sin una ley previa que la tipifique y establezca la pena correspondiente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-036",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Principios Fundamentales - Favorabilidad",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué establece el principio de favorabilidad?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Que el juez penal debe fallar siempre a favor del acusador particular para resguardar la tutela efectiva."
+      },
+      {
+        "id": "B",
+        "texto": "Que las leyes penales más severas rigen retroactivamente si benefician al erario público."
+      },
+      {
+        "id": "C",
+        "texto": "Que la duda razonable debe resolverse ordenando nuevas investigaciones policiales indefinidas."
+      },
+      {
+        "id": "D",
+        "texto": "Que, en caso de conflicto entre normas penales aplicables a una misma situación, debe aplicarse la disposición más favorable para la persona procesada o sentenciada."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Que, en caso de conflicto entre normas penales aplicables a una misma situación, debe aplicarse la disposición más favorable para la persona procesada o sentenciada.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 5 num. 2).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 5 num. 2",
+      "textoSoporte": "Que, en caso de conflicto entre normas penales aplicables a una misma situación, debe aplicarse la disposición más favorable para la persona procesada o sentenciada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-037",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Principios Rectores - Mínima Intervención",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio de mínima intervención penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es un principio rector del Derecho Penal. Establece que la intervención penal debe utilizarse únicamente cuando otros mecanismos jurídicos resulten insuficientes para proteger los bienes jurídicos."
+      },
+      {
+        "id": "B",
+        "texto": "La doctrina de criminación masiva que busca sancionar con cárcel toda controversia vecinal o civil."
+      },
+      {
+        "id": "C",
+        "texto": "La prohibición absoluta impuesta a los jueces penales de ordenar reparaciones económicas a víctimas."
+      },
+      {
+        "id": "D",
+        "texto": "La obligación de la Fiscalía de abstenerse de acusar si el sospechoso no tiene antecedentes policiales."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio rector del Derecho Penal. Establece que la intervención penal debe utilizarse únicamente cuando otros mecanismos jurídicos resulten insuficientes para proteger los bienes jurídicos.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 3).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 3",
+      "textoSoporte": "Es un principio rector del Derecho Penal. Establece que la intervención penal debe utilizarse únicamente cuando otros mecanismos jurídicos resulten insuficientes para proteger los bienes jurídicos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-038",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Bien Jurídico y Protección Penal",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el bien jurídico protegido?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El patrimonio privativo del tribunal de garantías penales asignado por el presupuesto general del Estado."
+      },
+      {
+        "id": "B",
+        "texto": "Es el interés, valor o derecho que la ley penal busca proteger mediante la tipificación de una conducta como infracción penal."
+      },
+      {
+        "id": "C",
+        "texto": "El conjunto de cosas muebles e inmuebles incautadas y depositadas en las bodegas judiciales de la policía."
+      },
+      {
+        "id": "D",
+        "texto": "La expectativa subjetiva de venganza personal que experimentan los familiares de la víctima del delito."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es el interés, valor o derecho que la ley penal busca proteger mediante la tipificación de una conducta como infracción penal.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 18 / Doctrina).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 18 / Doctrina",
+      "textoSoporte": "Es el interés, valor o derecho que la ley penal busca proteger mediante la tipificación de una conducta como infracción penal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-039",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Principios - Responsabilidad Personal",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la responsabilidad penal personal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La obligación de los progenitores de cumplir en prisión las penas impuestas a sus hijos mayores de edad."
+      },
+      {
+        "id": "B",
+        "texto": "La atribución solidaria de sanciones penales a todos los accionistas de una compañía mercantil quebrada."
+      },
+      {
+        "id": "C",
+        "texto": "Es un principio del Derecho Penal. Establece que cada persona responde únicamente por sus propios actos y no por las conductas de terceros."
+      },
+      {
+        "id": "D",
+        "texto": "La transmisión hereditaria de las penas privativas de libertad a los herederos universales del causante."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio del Derecho Penal. Establece que cada persona responde únicamente por sus propios actos y no por las conductas de terceros.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 76 num. 7 lit. k CRE).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador",
+      "articulo": "Art. 76 num. 7 lit. k CRE",
+      "textoSoporte": "Es un principio del Derecho Penal. Establece que cada persona responde únicamente por sus propios actos y no por las conductas de terceros.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-040",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Principios - Proporcionalidad",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la proporcionalidad de la pena?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La aplicación invariable de la pena máxima legal a toda persona procesada con prisión preventiva."
+      },
+      {
+        "id": "B",
+        "texto": "El incremento arbitrario de las condenas según el impacto mediático del delito juzgado."
+      },
+      {
+        "id": "C",
+        "texto": "La igualación matemática de la pena privativa de libertad con la cuantía monetaria de la fianza civil."
+      },
+      {
+        "id": "D",
+        "texto": "Es un principio jurídico que exige correspondencia entre la gravedad de la infracción, la culpabilidad del infractor y la sanción impuesta."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es un principio jurídico que exige correspondencia entre la gravedad de la infracción, la culpabilidad del infractor y la sanción impuesta.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 5 num. 12).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 5 num. 12",
+      "textoSoporte": "Es un principio jurídico que exige correspondencia entre la gravedad de la infracción, la culpabilidad del infractor y la sanción impuesta.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-041",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Modificatorias - Reincidencia",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la reincidencia?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una circunstancia modificatoria de la responsabilidad penal. Consiste en cometer una nueva infracción en los casos y condiciones expresamente previstos por la ley después de haber sido condenado previamente."
+      },
+      {
+        "id": "B",
+        "texto": "Haber sido investigado en fase previa sin que se haya formulado acusación o cargos formales."
+      },
+      {
+        "id": "C",
+        "texto": "Mantener citaciones pendientes de pago por contravenciones leves de estacionamiento vehicular."
+      },
+      {
+        "id": "D",
+        "texto": "La comisión simultánea de dos delitos en concurso ideal ejecutados en una misma unidad de tiempo."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una circunstancia modificatoria de la responsabilidad penal. Consiste en cometer una nueva infracción en los casos y condiciones expresamente previstos por la ley después de haber sido condenado previamente.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 57).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 57",
+      "textoSoporte": "Es una circunstancia modificatoria de la responsabilidad penal. Consiste en cometer una nueva infracción en los casos y condiciones expresamente previstos por la ley después de haber sido condenado previamente.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-042",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Determinación de la Pena - Pena Natural",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la pena natural?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La condena a trabajos forzados en obras públicas ejecutada en campamentos agrícolas rurales."
+      },
+      {
+        "id": "B",
+        "texto": "Es una institución jurídica reconocida por la legislación penal. Consiste en el grave perjuicio sufrido por el propio infractor como consecuencia directa de la infracción cometida."
+      },
+      {
+        "id": "C",
+        "texto": "La sanción de destierro impuesta a personas extranjeras que cometen delitos contra la soberanía."
+      },
+      {
+        "id": "D",
+        "texto": "El deterioro patrimonial ordinario derivado del pago de honorarios profesionales de los abogados."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una institución jurídica reconocida por la legislación penal. Consiste en el grave perjuicio sufrido por el propio infractor como consecuencia directa de la infracción cometida.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 56).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 56",
+      "textoSoporte": "Es una institución jurídica reconocida por la legislación penal. Consiste en el grave perjuicio sufrido por el propio infractor como consecuencia directa de la infracción cometida.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-043",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Consecuencias Accesorias - Comiso",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el comiso penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El embargo provisional de automotores decretado dentro de un juicio ejecutivo en materia mercantil."
+      },
+      {
+        "id": "B",
+        "texto": "La retención preventiva de bienes litigiosos que son devueltos sin condición al procesado tras la acusación."
+      },
+      {
+        "id": "C",
+        "texto": "Es una consecuencia jurídica accesoria derivada de una infracción penal. Consiste en la privación definitiva de bienes, efectos o instrumentos relacionados con la infracción conforme a la ley."
+      },
+      {
+        "id": "D",
+        "texto": "La expropiación por motivos de utilidad pública efectuada por los gobiernos autónomos descentralizados."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una consecuencia jurídica accesoria derivada de una infracción penal. Consiste en la privación definitiva de bienes, efectos o instrumentos relacionados con la infracción conforme a la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 69).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 69",
+      "textoSoporte": "Es una consecuencia jurídica accesoria derivada de una infracción penal. Consiste en la privación definitiva de bienes, efectos o instrumentos relacionados con la infracción conforme a la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-044",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Sistema Nacional de Rehabilitación Social",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de la rehabilitación social?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Imponer castigos corporales rigurosos para doblegar psicológicamente a las personas condenadas."
+      },
+      {
+        "id": "B",
+        "texto": "Retener indefinidamente a los procesados en cárceles sin posibilidad de acceso a instrucción formal."
+      },
+      {
+        "id": "C",
+        "texto": "Cobrar mensualidades penitenciarias a las familias de los internos para financiar la vigilancia armada."
+      },
+      {
+        "id": "D",
+        "texto": "Lograr la reinserción social de la persona sentenciada y reducir el riesgo de reincidencia mediante procesos de educación, tratamiento y desarrollo personal."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Lograr la reinserción social de la persona sentenciada y reducir el riesgo de reincidencia mediante procesos de educación, tratamiento y desarrollo personal.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 201 CRE / Art. 672 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador",
+      "articulo": "Art. 201 CRE / Art. 672 COIP",
+      "textoSoporte": "Lograr la reinserción social de la persona sentenciada y reducir el riesgo de reincidencia mediante procesos de educación, tratamiento y desarrollo personal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-045",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Sujetos Procesales - Rol de la Víctima",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el papel de la víctima dentro del proceso penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Participar en el proceso penal, ejercer los derechos que la ley le reconoce, recibir protección y obtener reparación integral por los daños sufridos."
+      },
+      {
+        "id": "B",
+        "texto": "Subordinarse exclusivamente al criterio del fiscal sin derecho a apelar autos de sobreseimiento."
+      },
+      {
+        "id": "C",
+        "texto": "Costear obligatoriamente todas las pericias técnicas de criminalística y autopsias forenses solicitadas."
+      },
+      {
+        "id": "D",
+        "texto": "Asumir la custodia carcelaria directa del sentenciado mientras dure el cumplimiento de la condena."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Participar en el proceso penal, ejercer los derechos que la ley le reconoce, recibir protección y obtener reparación integral por los daños sufridos.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 78 CRE / Arts. 11, 441 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador",
+      "articulo": "Art. 78 CRE / Arts. 11, 441 COIP",
+      "textoSoporte": "Participar en el proceso penal, ejercer los derechos que la ley le reconoce, recibir protección y obtener reparación integral por los daños sufridos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-046",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Delitos contra la Administración de Justicia",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el encubrimiento?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La intervención previa en la planificación concertada de la infracción en calidad de autor mediato."
+      },
+      {
+        "id": "B",
+        "texto": "Es una conducta penalmente relevante que consiste en ayudar al responsable de una infracción después de su comisión para ocultar el hecho, evadir la acción de la justicia o impedir el descubrimiento de los responsables. Se configura cuando una persona interviene con posterioridad a la consumación del delito sin haber participado como autor o cómplice."
+      },
+      {
+        "id": "C",
+        "texto": "La facilitación de armas en la fase preparatoria antes de iniciarse la ejecución material del delito."
+      },
+      {
+        "id": "D",
+        "texto": "El secreto profesional guardado legítimamente por el abogado defensor sobre las confidencias del cliente."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es una conducta penalmente relevante que consiste en ayudar al responsable de una infracción después de su comisión para ocultar el hecho, evadir la acción de la justicia o impedir el descubrimiento de los responsables. Se configura cuando una persona interviene con posterioridad a la consumación del delito sin haber participado como autor o cómplice.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 277 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 277 COIP",
+      "textoSoporte": "Es una conducta penalmente relevante que consiste en ayudar al responsable de una infracción después de su comisión para ocultar el hecho, evadir la acción de la justicia o impedir el descubrimiento de los responsables. Se configura cuando una persona interviene con posterioridad a la consumación del delito sin haber participado como autor o cómplice.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-047",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Garantías Procesales - Presunción de Inocencia",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el principio de presunción de inocencia?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La regla que exige al procesado acreditar documentalmente que no se encontraba en el lugar de los hechos."
+      },
+      {
+        "id": "B",
+        "texto": "Una presunción iuris et de iure que impide al juzgador dictar prisión preventiva bajo cualquier supuesto."
+      },
+      {
+        "id": "C",
+        "texto": "Es una garantía constitucional y procesal penal. Establece que toda persona debe ser considerada y tratada como inocente mientras no exista una sentencia condenatoria ejecutoriada."
+      },
+      {
+        "id": "D",
+        "texto": "La prohibición impuesta a la Fiscalía de investigar a personas que gocen de buena reputación comunitaria."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una garantía constitucional y procesal penal. Establece que toda persona debe ser considerada y tratada como inocente mientras no exista una sentencia condenatoria ejecutoriada.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 76 num. 2 CRE / Art. 5 num. 4 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador",
+      "articulo": "Art. 76 num. 2 CRE / Art. 5 num. 4 COIP",
+      "textoSoporte": "Es una garantía constitucional y procesal penal. Establece que toda persona debe ser considerada y tratada como inocente mientras no exista una sentencia condenatoria ejecutoriada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-048",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Conducta Penal y Responsabilidad Objetiva",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la responsabilidad objetiva?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La responsabilidad penal exigida a personas jurídicas en delitos contra el ambiente con culpa comprobada."
+      },
+      {
+        "id": "B",
+        "texto": "El criterio judicial que analiza minuciosamente la premeditación y alevosía en delitos de homicidio."
+      },
+      {
+        "id": "C",
+        "texto": "La imputación subjetiva que exige dolo directo verificado por la Fiscalía en todos los delitos de omisión."
+      },
+      {
+        "id": "D",
+        "texto": "Es una forma de atribución de responsabilidad basada únicamente en el resultado producido, sin analizar dolo o culpa. No es admitida por el sistema penal ecuatoriano."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de atribución de responsabilidad basada únicamente en el resultado producido, sin analizar dolo o culpa. No es admitida por el sistema penal ecuatoriano.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 22).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 22",
+      "textoSoporte": "Es una forma de atribución de responsabilidad basada únicamente en el resultado producido, sin analizar dolo o culpa. No es admitida por el sistema penal ecuatoriano.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-049",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Conducta Penal y Culpabilidad",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Está permitida la responsabilidad objetiva en el Derecho Penal ecuatoriano?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "No. El sistema penal ecuatoriano exige la existencia de dolo o culpa para atribuir responsabilidad penal."
+      },
+      {
+        "id": "B",
+        "texto": "Sí, está permitida ampliamente en todas las contravenciones de tránsito y delitos ambientales culposos."
+      },
+      {
+        "id": "C",
+        "texto": "Sí, siempre que el hecho punible haya causado conmoción social o notoriedad pública en medios de comunicación."
+      },
+      {
+        "id": "D",
+        "texto": "Sí, de manera excepcional cuando el procesado se acoge voluntariamente al procedimiento abreviado."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"No. El sistema penal ecuatoriano exige la existencia de dolo o culpa para atribuir responsabilidad penal.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 22, 26, 27).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 22, 26, 27",
+      "textoSoporte": "No. El sistema penal ecuatoriano exige la existencia de dolo o culpa para atribuir responsabilidad penal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-050",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Teoría del Tipo - Causalidad e Imputación",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el nexo causal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El parentesco por consanguinidad o afinidad que vincula a los coprocesados en una causa penal."
+      },
+      {
+        "id": "B",
+        "texto": "Es un elemento de la teoría del delito. Consiste en la relación de causa y efecto entre la conducta de una persona y el resultado producido. Se configura cuando el resultado puede atribuirse jurídicamente a la conducta realizada."
+      },
+      {
+        "id": "C",
+        "texto": "La relación jerárquica de mando existente entre el superior policial y el agente operativo subalterno."
+      },
+      {
+        "id": "D",
+        "texto": "El vínculo procesal entre el acusador particular y el fiscal durante la formulación de cargos."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Es un elemento de la teoría del delito. Consiste en la relación de causa y efecto entre la conducta de una persona y el resultado producido. Se configura cuando el resultado puede atribuirse jurídicamente a la conducta realizada.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 22, 23).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 22, 23",
+      "textoSoporte": "Es un elemento de la teoría del delito. Consiste en la relación de causa y efecto entre la conducta de una persona y el resultado producido. Se configura cuando el resultado puede atribuirse jurídicamente a la conducta realizada.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-051",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Grados del Delito - Consumación",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el delito consumado?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La realización parcial de actos idóneos que se interrumpe por la rápida intervención de la policía."
+      },
+      {
+        "id": "B",
+        "texto": "La manifestación expresa de la víctima perdonando la ofensa recibida en delitos de acción privada."
+      },
+      {
+        "id": "C",
+        "texto": "Es una forma de ejecución de la infracción penal. Consiste en la realización completa de todos los elementos previstos en el tipo penal. Se configura cuando la conducta cumple íntegramente la descripción legal de la infracción."
+      },
+      {
+        "id": "D",
+        "texto": "La ejecución fallida de un delito con empleo de medios absolutamente inidóneos o ineficaces."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de ejecución de la infracción penal. Consiste en la realización completa de todos los elementos previstos en el tipo penal. Se configura cuando la conducta cumple íntegramente la descripción legal de la infracción.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 18 / Art. 39 a contrario sensu).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 18 / Art. 39 a contrario sensu",
+      "textoSoporte": "Es una forma de ejecución de la infracción penal. Consiste en la realización completa de todos los elementos previstos en el tipo penal. Se configura cuando la conducta cumple íntegramente la descripción legal de la infracción.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-052",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Iter Criminis - Diferencias",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la diferencia entre delito consumado y tentativa?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "El delito consumado prescribe a los treinta días; la tentativa es imprescriptible por mandato constitucional."
+      },
+      {
+        "id": "B",
+        "texto": "El delito consumado solo lo cometen autores directos; la tentativa únicamente es imputable a los cómplices."
+      },
+      {
+        "id": "C",
+        "texto": "El delito consumado nunca genera reparación integral; la tentativa exige indemnización triple a la víctima."
+      },
+      {
+        "id": "D",
+        "texto": "En el delito consumado se realizan todos los elementos del tipo penal, mientras que en la tentativa la ejecución se inicia pero no llega a consumarse por causas ajenas a la voluntad del autor."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"En el delito consumado se realizan todos los elementos del tipo penal, mientras que en la tentativa la ejecución se inicia pero no llega a consumarse por causas ajenas a la voluntad del autor.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 18 y 39).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 18 y 39",
+      "textoSoporte": "En el delito consumado se realizan todos los elementos del tipo penal, mientras que en la tentativa la ejecución se inicia pero no llega a consumarse por causas ajenas a la voluntad del autor.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-053",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Iter Criminis - Fases del Delito",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es el iter criminis?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es el proceso de desarrollo del delito. Comprende las etapas que van desde la ideación o planificación de la infracción hasta su consumación."
+      },
+      {
+        "id": "B",
+        "texto": "El recorrido geográfico que efectúa el procesado para huir de la persecución policial ininterrumpida."
+      },
+      {
+        "id": "C",
+        "texto": "La secuencia cronológica de recursos procesales ordinarios y extraordinarios interpuestos en el juicio."
+      },
+      {
+        "id": "D",
+        "texto": "El trámite penitenciario requerido para que un privado de libertad acceda al régimen semiabierto."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es el proceso de desarrollo del delito. Comprende las etapas que van desde la ideación o planificación de la infracción hasta su consumación.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 39 / Doctrina).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 39 / Doctrina",
+      "textoSoporte": "Es el proceso de desarrollo del delito. Comprende las etapas que van desde la ideación o planificación de la infracción hasta su consumación.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-054",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Iter Criminis - Fase Interna",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué actos son generalmente impunes dentro del iter criminis?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Los actos inequívocos de ejecución material frustrados por la intervención de la fuerza pública."
+      },
+      {
+        "id": "B",
+        "texto": "Los pensamientos, ideas y actos meramente internos que no se exteriorizan mediante conductas de ejecución punibles."
+      },
+      {
+        "id": "C",
+        "texto": "Las lesiones físicas graves producidas con dolo en riñas o enfrentamientos callejeros."
+      },
+      {
+        "id": "D",
+        "texto": "El apoderamiento violento de bienes ajenos con empleo de armas cortopunzantes de fuego."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Los pensamientos, ideas y actos meramente internos que no se exteriorizan mediante conductas de ejecución punibles.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 22 / Principio Cogitationis).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 22 / Principio Cogitationis",
+      "textoSoporte": "Los pensamientos, ideas y actos meramente internos que no se exteriorizan mediante conductas de ejecución punibles.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-055",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Participación Criminal - Generalidades",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la participación criminal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La asistencia obligatoria de peritos y testigos convocados legalmente a rendir testimonio en juicio oral."
+      },
+      {
+        "id": "B",
+        "texto": "El nombramiento formal de fiscales y defensores públicos por parte del Consejo de la Judicatura."
+      },
+      {
+        "id": "C",
+        "texto": "Es la intervención de una o varias personas en la comisión de una infracción penal conforme a las formas de autoría y participación reconocidas por la ley."
+      },
+      {
+        "id": "D",
+        "texto": "La participación de los jurados de hecho en los tribunales penales contemplados en el Código de Procedimiento Penal derogado."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Es la intervención de una o varias personas en la comisión de una infracción penal conforme a las formas de autoría y participación reconocidas por la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 41, 42, 43).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 41, 42, 43",
+      "textoSoporte": "Es la intervención de una o varias personas en la comisión de una infracción penal conforme a las formas de autoría y participación reconocidas por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-056",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Determinación de la Pena",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la individualización de la pena?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "La fijación aleatoria de condenas privativas de libertad mediante sorteo informático de causas."
+      },
+      {
+        "id": "B",
+        "texto": "La imposición de la pena mínima legal de forma automática sin valorar agravantes ni atenuantes."
+      },
+      {
+        "id": "C",
+        "texto": "La delegación de la potestad punitiva en el director del centro de rehabilitación social."
+      },
+      {
+        "id": "D",
+        "texto": "Es el proceso mediante el cual el juzgador determina la sanción concreta aplicable a una persona responsable de una infracción penal, considerando las circunstancias del caso."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es el proceso mediante el cual el juzgador determina la sanción concreta aplicable a una persona responsable de una infracción penal, considerando las circunstancias del caso.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 54).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 54",
+      "textoSoporte": "Es el proceso mediante el cual el juzgador determina la sanción concreta aplicable a una persona responsable de una infracción penal, considerando las circunstancias del caso.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-057",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Determinación y Proporcionalidad de la Pena",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de la individualización de la pena?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Garantizar que la sanción sea proporcional a la gravedad de la infracción, a la culpabilidad del infractor y a las circunstancias particulares del caso."
+      },
+      {
+        "id": "B",
+        "texto": "Aumentar la recaudación tributaria estatal mediante multas pecuniarias exorbitantes y desproporcionadas."
+      },
+      {
+        "id": "C",
+        "texto": "Asegurar que todas las personas imputadas en un proceso penal reciban exactamente la misma condena sin distinciones."
+      },
+      {
+        "id": "D",
+        "texto": "Permitir que el acusador particular elija discrecionalmente el recinto penitenciario de cumplimiento."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Garantizar que la sanción sea proporcional a la gravedad de la infracción, a la culpabilidad del infractor y a las circunstancias particulares del caso.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 76 num. 6 CRE / Art. 54 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador",
+      "articulo": "Art. 76 num. 6 CRE / Art. 54 COIP",
+      "textoSoporte": "Garantizar que la sanción sea proporcional a la gravedad de la infracción, a la culpabilidad del infractor y a las circunstancias particulares del caso.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-058",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Atenuantes - Efectos Jurídicos",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de las circunstancias atenuantes?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Eximir de manera absoluta de cualquier pago de reparación económica a favor de la víctima ofendida."
+      },
+      {
+        "id": "B",
+        "texto": "Disminuir la intensidad de la respuesta penal cuando concurren las condiciones expresamente previstas por la ley."
+      },
+      {
+        "id": "C",
+        "texto": "Provocar la anulación retroactiva de todas las actuaciones periciales practicadas por la policía."
+      },
+      {
+        "id": "D",
+        "texto": "Extinguir la acción penal mediante archivo provisional ordenado por el secretario del juzgado."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Disminuir la intensidad de la respuesta penal cuando concurren las condiciones expresamente previstas por la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 44, 45).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 44, 45",
+      "textoSoporte": "Disminuir la intensidad de la respuesta penal cuando concurren las condiciones expresamente previstas por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-059",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Agravantes - Efectos Jurídicos",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es la finalidad de las circunstancias agravantes?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Eliminar el derecho del sentenciado a interponer recursos de apelación y casación ante cortes superiores."
+      },
+      {
+        "id": "B",
+        "texto": "Permitir la aplicación de penas de degradación pública y confiscación total de patrimonio no litigioso."
+      },
+      {
+        "id": "C",
+        "texto": "Incrementar la intensidad de la respuesta penal cuando concurren los supuestos expresamente establecidos por la ley."
+      },
+      {
+        "id": "D",
+        "texto": "Relevar a los juzgadores penales del deber constitucional de motivar sus fallos condenatorios."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Incrementar la intensidad de la respuesta penal cuando concurren los supuestos expresamente establecidos por la ley.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 44, 47).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Arts. 44, 47",
+      "textoSoporte": "Incrementar la intensidad de la respuesta penal cuando concurren los supuestos expresamente establecidos por la ley.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-060",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Reparación Integral - Daño Material",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la reparación material?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Las disculpas públicas presentadas por el infractor a través de medios de comunicación o actos públicos."
+      },
+      {
+        "id": "B",
+        "texto": "El tratamiento psicológico o psiquiátrico brindado a la víctima en instituciones de salud pública."
+      },
+      {
+        "id": "C",
+        "texto": "La construcción de monumentos y designación conmemorativa de espacios públicos en honor a las víctimas."
+      },
+      {
+        "id": "D",
+        "texto": "Es una forma de reparación integral. Consiste en compensar económicamente los daños patrimoniales ocasionados como consecuencia de una infracción penal."
+      }
+    ],
+    "respuestaCorrecta": "D",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de reparación integral. Consiste en compensar económicamente los daños patrimoniales ocasionados como consecuencia de una infracción penal.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 78 num. 1).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 78 num. 1",
+      "textoSoporte": "Es una forma de reparación integral. Consiste en compensar económicamente los daños patrimoniales ocasionados como consecuencia de una infracción penal.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-061",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Reparación Integral - Daño Inmaterial",
+    "dificultad": "media",
+    "tipo": "normativa",
+    "enunciado": "¿Qué es la reparación inmaterial?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Es una forma de reparación integral. Consiste en las medidas destinadas a reparar daños no patrimoniales causados por la infracción penal, incluyendo rehabilitación, satisfacción, reconocimiento público y garantías de no repetición."
+      },
+      {
+        "id": "B",
+        "texto": "La restitución física de los vehículos automotores y joyas decomisados durante los allanamientos."
+      },
+      {
+        "id": "C",
+        "texto": "El reintegro contable del lucro cesante y daño emergente tasado mediante peritaje financiero."
+      },
+      {
+        "id": "D",
+        "texto": "El pago exclusivo de multas coercitivas al Consejo de la Judicatura por demoras procesales."
+      }
+    ],
+    "respuestaCorrecta": "A",
+    "explicacion": "Respuesta oficial indubitada: \"Es una forma de reparación integral. Consiste en las medidas destinadas a reparar daños no patrimoniales causados por la infracción penal, incluyendo rehabilitación, satisfacción, reconocimiento público y garantías de no repetición.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 78 num. 2 y siguientes).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Código Orgánico Integral Penal (COIP)",
+      "articulo": "Art. 78 num. 2 y siguientes",
+      "textoSoporte": "Es una forma de reparación integral. Consiste en las medidas destinadas a reparar daños no patrimoniales causados por la infracción penal, incluyendo rehabilitación, satisfacción, reconocimiento público y garantías de no repetición.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-062",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Protección y Garantías de la Víctima",
+    "dificultad": "alta",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el objeto de los derechos de la víctima dentro del proceso penal?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Permitir que la víctima sustituya la acusación fiscal cuando ésta omita solicitar la pena de muerte."
+      },
+      {
+        "id": "B",
+        "texto": "Garantizar su protección, participación efectiva en el proceso, acceso a la justicia y obtención de una reparación integral por los daños sufridos."
+      },
+      {
+        "id": "C",
+        "texto": "Facultar a la víctima para imponer arrestos domiciliarios directos sin necesidad de resolución de un juez."
+      },
+      {
+        "id": "D",
+        "texto": "Garantizar que la víctima perciba ingresos salariales a cargo del procesado durante toda la investigación."
+      }
+    ],
+    "respuestaCorrecta": "B",
+    "explicacion": "Respuesta oficial indubitada: \"Garantizar su protección, participación efectiva en el proceso, acceso a la justicia y obtención de una reparación integral por los daños sufridos.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Art. 78 CRE / Art. 11 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador",
+      "articulo": "Art. 78 CRE / Art. 11 COIP",
+      "textoSoporte": "Garantizar su protección, participación efectiva en el proceso, acceso a la justicia y obtención de una reparación integral por los daños sufridos.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  },
+  {
+    "id": "EFJ-PENAL-JR-063",
+    "perfil": [
+      "penal",
+      "personalizado"
+    ],
+    "materia": "Derecho Penal",
+    "subtema": "Propósito General del Sistema Penal",
+    "dificultad": "baja",
+    "tipo": "normativa",
+    "enunciado": "¿Cuál es el propósito del sistema penal ecuatoriano?",
+    "alternativas": [
+      {
+        "id": "A",
+        "texto": "Maximizar los índices de encarcelamiento masivo sin atender garantías procesales básicas."
+      },
+      {
+        "id": "B",
+        "texto": "Eliminar todo mecanismo alternativo de solución de conflictos y acuerdos conciliatorios entre partes."
+      },
+      {
+        "id": "C",
+        "texto": "Proteger los bienes jurídicos reconocidos por el ordenamiento jurídico, garantizar los derechos constitucionales, sancionar las infracciones penales conforme al debido proceso y asegurar la reparación integral de las víctimas."
+      },
+      {
+        "id": "D",
+        "texto": "Sustituir el debido proceso por resoluciones sumarias inmediatas dictadas por autoridades policiales."
+      }
+    ],
+    "respuestaCorrecta": "C",
+    "explicacion": "Respuesta oficial indubitada: \"Proteger los bienes jurídicos reconocidos por el ordenamiento jurídico, garantizar los derechos constitucionales, sancionar las infracciones penales conforme al debido proceso y asegurar la reparación integral de las víctimas.\". Fundamento positivo en el Código Orgánico Integral Penal (COIP) / Constitución de la República del Ecuador (Arts. 195, 201 CRE / Arts. 1, 3 COIP).",
+    "explicacionDistractores": {
+      "A": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "B": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "C": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito.",
+      "D": "Alternativa analizada técnicamente conforme a la dogmática penal ecuatoriana y teoría del delito."
+    },
+    "fuente": {
+      "norma": "Constitución de la República del Ecuador",
+      "articulo": "Arts. 195, 201 CRE / Arts. 1, 3 COIP",
+      "textoSoporte": "Proteger los bienes jurídicos reconocidos por el ordenamiento jurídico, garantizar los derechos constitucionales, sancionar las infracciones penales conforme al debido proceso y asegurar la reparación integral de las víctimas.",
+      "urlOficial": "https://www.asambleanacional.gob.ec",
+      "fechaConsulta": "2026-10-22",
+      "vigenciaVerificada": true
+    },
+    "jurisprudencia": {
+      "organo": "Corte Nacional de Justicia del Ecuador - Sala Especializada de lo Penal",
+      "reglaJurisprudencial": "Principio de legalidad, estricta tipicidad, lesividad y prohibición de responsabilidad objetiva."
+    },
+    "estado": "validada",
+    "observaciones": "Banco oficial facilitado por el usuario - Cuestionario Penal JR",
+    "fechaCreacion": "2026-10-22T00:00:00.000Z",
+    "fechaActualizacion": "2026-10-22T00:00:00.000Z",
+    "esDemostracion": false,
+    "revisadaPorHumano": true,
+    "revisadoPor": "Jaime Roldán - EFJ"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Judicial Ecuador",
+  "description": "Simulador de examen de preparación para la selección y designación de juezas y jueces temporales de Ecuador (Resoluciones CJ 144-2026 y 198-2026). Herramienta privada de estudio independiente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
